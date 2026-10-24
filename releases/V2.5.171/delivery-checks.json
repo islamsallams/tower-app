@@ -1,0 +1,12 @@
+{
+  "runtimeFiles": 8,
+  "sourceFiles": 176,
+  "crc": "PASS",
+  "runtimeSourceMatch": "PASS",
+  "rootPublicMatch": "PASS",
+  "tripFunctionsUnchanged": 16,
+  "sha256": {
+    "Tower_App_V2.5.171.zip": "f733c6b73dcfdda7e712be69a57d918c383ce74f12d48f0df277640919adfe90",
+    "Tower_App_V2.5.171-SOURCE.zip": "3b45675279322601a4afe0c30fe701a163afd417e9f77408765b5aeaba112f72"
+  }
+}
