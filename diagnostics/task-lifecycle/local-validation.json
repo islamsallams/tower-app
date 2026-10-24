@@ -1,0 +1,16 @@
+{
+  "engine": "PGlite PostgreSQL0.5.11 synthetic catalog",
+  "liveSupabaseExecuted": false,
+  "checks": [
+    {
+      "scenario": "Empty catalog",
+      "status": "PASS",
+      "rows": 2
+    },
+    {
+      "scenario": "Financial internal function and task table with trigger, fixture unchanged",
+      "status": "PASS",
+      "rows": 5
+    }
+  ]
+}
