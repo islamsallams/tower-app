@@ -1,0 +1,12 @@
+{
+  "runtimeFiles": 8,
+  "sourceFiles": 168,
+  "crc": "PASS",
+  "runtimeSourceMatch": "PASS",
+  "rootPublicMatch": "PASS",
+  "sha256": {
+    "Tower_App_V2.5.170.zip": "35bc98a741162416eca8fee14618bff84104c381a5a531c8f1f4a3dd3c897153",
+    "Tower_App_V2.5.170-SOURCE.zip": "e69c8efa5e020edb2260a5a4163e7772b3f8897baed0cfa10a1eb439c2a2f832",
+    "STAGING_80_Original_SQL227_UNIT_TASK_BALANCES_READ_ONLY.sql": "0f003c48f61fc1f2c74548192d20c39acb44b077b1a1045f665e46a8986e1cde"
+  }
+}
