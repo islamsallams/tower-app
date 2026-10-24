@@ -1,0 +1,16 @@
+{
+  "engine": "PGlite PostgreSQL, local synthetic catalog only",
+  "checks": [
+    {
+      "scenario": "catalog with all target objects absent",
+      "status": "PASS",
+      "resultRows": 12
+    },
+    {
+      "scenario": "catalog with tables/view/functions and unchanged fixture rows",
+      "status": "PASS",
+      "resultRows": 15
+    }
+  ],
+  "liveSupabaseExecuted": false
+}
