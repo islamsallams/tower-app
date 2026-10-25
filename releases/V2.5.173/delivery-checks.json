@@ -1,0 +1,50 @@
+{
+  "version": "V2.5.173",
+  "runtimeFileCount": 8,
+  "sourceFileCount": 250,
+  "baselineSourceFileCount": 213,
+  "allBaselinePathsPreserved": true,
+  "crc": "PASS",
+  "runtimeSourceIdentical": true,
+  "rootPublicIdentical": true,
+  "standaloneSqlMatchesSource": true,
+  "newLifecycleVerifiedOnline": false,
+  "onlineAcceptanceAssignedTo": "USER",
+  "oldSevenFinancialTests": "DEFERRED",
+  "runtimeHashes": {
+    "app.js": "e52719533720c0319f0e3f24aa60c8d1751cbfa18b13b9a125d06bd1adefa801",
+    "index.html": "bb123bb87d265162ea502636634a9bbcc04316733d38b0f560c3434a42f549a6",
+    "styles.css": "9dbd9c7de2002d23fbd16a076e7d20ae5bfba537892c690e1da5d2e63f0bf944",
+    "worker.js": "2aadecc29162da9f329aa69a85bb19de8ac8e287143806b6cb0e5a3c1332183b",
+    "wrangler.toml": "11580256a1830cf40b880645d3397939af1ffefb52fcc04af000a434274969f9",
+    "public/app.js": "e52719533720c0319f0e3f24aa60c8d1751cbfa18b13b9a125d06bd1adefa801",
+    "public/index.html": "bb123bb87d265162ea502636634a9bbcc04316733d38b0f560c3434a42f549a6",
+    "public/styles.css": "9dbd9c7de2002d23fbd16a076e7d20ae5bfba537892c690e1da5d2e63f0bf944"
+  },
+  "files": {
+    "RELEASE_NOTES_V2.5.173_AR.md": {
+      "bytes": 5227,
+      "sha256": "33e9afdbafaf873f36c0cc8ea8803653ac67cfd952ab83ac39f6e9c0da495bbf"
+    },
+    "STAGING_83_Original_SQL230_TASK_SIMPLIFICATION.sql": {
+      "bytes": 67314,
+      "sha256": "fc054bb0b615ab51d75a7429855e6cbe6fda6c3fcd8686cbdd1f14f16f163587"
+    },
+    "Tower_App_V2.5.173-SOURCE.zip": {
+      "bytes": 10787468,
+      "sha256": "01f887da3d37d145bd2f12a14a81c34f93d546387e4290cf1585ab2878c35dc1"
+    },
+    "Tower_App_V2.5.173.zip": {
+      "bytes": 618057,
+      "sha256": "b8f1798ddc14ce991590f54564954268936a4b59103e84f1b638f2931ecd213c"
+    },
+    "USER_ONLINE_TEST_V2.5.173_AR.md": {
+      "bytes": 6443,
+      "sha256": "17f5cf87a845cc8476f4a421e6c9be608788ca33b3f6aeea541bb07d31150b33"
+    },
+    "VALIDATION_V2.5.173_AR.md": {
+      "bytes": 4948,
+      "sha256": "6472665c214c48ec1c39e9911140c80da1b1087a6cc3210852b09a7694c19567"
+    }
+  }
+}
