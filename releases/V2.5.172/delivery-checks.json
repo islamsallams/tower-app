@@ -1,0 +1,45 @@
+{
+  "version": "V2.5.172",
+  "runtimeFileCount": 8,
+  "sourceFileCount": 213,
+  "baselineSourceFileCount": 176,
+  "allBaselinePathsPreserved": true,
+  "crc": "PASS",
+  "runtimeSourceIdentical": true,
+  "rootPublicIdentical": true,
+  "standaloneSqlMatchesSource": true,
+  "newLifecycleVerifiedOnline": false,
+  "oldSevenFinancialTests": "DEFERRED",
+  "runtimeHashes": {
+    "app.js": "9a4ec806bc708657f39d0f1051c76d6f5784aab6dfaa3cae31b113fa308d6a31",
+    "index.html": "829333355fff5ed0b927684df088645018c87f2fafffc07a2c8bb893622d7956",
+    "styles.css": "c0972f78b2703833e34342c3aba0109c8a8b5367946b9a4d49defaddd7446828",
+    "worker.js": "b4d4a3b6656d1b01d464d3762cba70fe3adcfcc63afce25abf076a6451f642ca",
+    "wrangler.toml": "11580256a1830cf40b880645d3397939af1ffefb52fcc04af000a434274969f9",
+    "public/app.js": "9a4ec806bc708657f39d0f1051c76d6f5784aab6dfaa3cae31b113fa308d6a31",
+    "public/index.html": "829333355fff5ed0b927684df088645018c87f2fafffc07a2c8bb893622d7956",
+    "public/styles.css": "c0972f78b2703833e34342c3aba0109c8a8b5367946b9a4d49defaddd7446828"
+  },
+  "files": {
+    "RELEASE_NOTES_V2.5.172_AR.md": {
+      "bytes": 3329,
+      "sha256": "2207179d9d305aec8d7b8aaae5e8d70c2e17436080e32537256f38423cdb1474"
+    },
+    "STAGING_82_Original_SQL229_TASK_LIFECYCLE.sql": {
+      "bytes": 112212,
+      "sha256": "1eea594c84aa230ab28565d57855e9c0b07294ee213ded78a5fe7d425446662c"
+    },
+    "Tower_App_V2.5.172-SOURCE.zip": {
+      "bytes": 6907873,
+      "sha256": "36731cbd3ba2059b9781bd125aa2e8c428312ee2b97b50a5d08ada039f9a295a"
+    },
+    "Tower_App_V2.5.172.zip": {
+      "bytes": 610532,
+      "sha256": "fffe88cb000fc495165df96b4e73b8826640f257548939f111b19540fb278b07"
+    },
+    "VALIDATION_V2.5.172_AR.md": {
+      "bytes": 3716,
+      "sha256": "1d69d072f67f130fa6356f9314a46375d01ab11fc816fdd818f5f367404df8f7"
+    }
+  }
+}
