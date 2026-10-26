@@ -1,0 +1,56 @@
+{
+  "version": "V2.5.180",
+  "runtimeFileCount": 5,
+  "sourceFileCount": 401,
+  "baselineSourceFileCount": 385,
+  "allBaselinePathsPreserved": true,
+  "oldSqlFilesUnchanged": true,
+  "standaloneSqlMatchesSource": true,
+  "newSql": "STAGING_88_Original_SQL235_TASK_CONTROLS_AND_AUTO_INSTALLMENTS.sql",
+  "requiredExistingSql": "SQL234",
+  "crc": "PASS",
+  "runtimeSourceIdentical": true,
+  "rootPublicIdentical": true,
+  "updaterLocalPreparationChecks": 7,
+  "updaterLocalPreparation": "PASS",
+  "uiTestingOwner": "USER_ALWAYS",
+  "uiTestsExecuted": false,
+  "uiTestExecutionNote": "No browser or screen tests in this batch; user owns visual and online acceptance",
+  "screenAcceptance": "PENDING_USER",
+  "onlineTestsExecuted": false,
+  "liveFinancialWritesExecuted": false,
+  "deployed": false,
+  "runtimeHashes": {
+    "app.js": "3f1bee2d33be028625f60ac5bd0e90100559aeecbbe7aede3d51361e3fe538d0",
+    "index.html": "06d8553fe852394d545816b6ae906769953f390f426a560671dc00070841ab6c",
+    "styles.css": "96fe06b91c9523c39ed2be5d7e10166af3c4b749206963a0df527d69d8810877",
+    "worker.js": "74e0b419f275bcd82237e6d6cafc475ef2364113218f2b1bb8e1d37cc1ea38cd",
+    "wrangler.toml": "11580256a1830cf40b880645d3397939af1ffefb52fcc04af000a434274969f9"
+  },
+  "files": {
+    "RELEASE_NOTES_V2.5.180_AR.md": {
+      "bytes": 3858,
+      "sha256": "dcd0672ec57433cb6945f0ef31ef3712a0077d82574df915b86c2dc6c8e85f52"
+    },
+    "STAGING_88_Original_SQL235_TASK_CONTROLS_AND_AUTO_INSTALLMENTS.sql": {
+      "bytes": 7529,
+      "sha256": "1b2049c2a5098665cee8cdba8fa39255fa45bbdda102d85fd8a8f5da3e779629"
+    },
+    "Tower_App_V2.5.180-SOURCE.zip": {
+      "bytes": 16384839,
+      "sha256": "a868e4817b4432111b8148f0a8ee453c1773ff64e551eb37b2a1bb2c370a7439"
+    },
+    "Tower_App_V2.5.180.zip": {
+      "bytes": 358501,
+      "sha256": "f16819987d2dc2414d733ee86c5c10bd25c4ad88770fffff4264671a4438f027"
+    },
+    "USER_ONLINE_TEST_V2.5.180_AR.md": {
+      "bytes": 4048,
+      "sha256": "61dbc4275263a37f324228a1d6989cd04cf0b88e08ae54d99987b25dc434ebea"
+    },
+    "VALIDATION_V2.5.180_AR.md": {
+      "bytes": 5441,
+      "sha256": "b712befa633e7f963a1e0c65f81212afeeefdcac8e7b724cd1ab25fda51e7e23"
+    }
+  }
+}
