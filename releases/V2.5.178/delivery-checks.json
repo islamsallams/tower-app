@@ -1,0 +1,54 @@
+{
+  "version": "V2.5.178",
+  "runtimeFileCount": 5,
+  "sourceFileCount": 370,
+  "baselineSourceFileCount": 354,
+  "allBaselinePathsPreserved": true,
+  "oldSqlFilesUnchanged": true,
+  "standaloneSqlMatchesSource": true,
+  "newSql": "STAGING_86_Original_SQL233_UNIFIED_COLLECTION_BATCHES.sql",
+  "requiredExistingSql": "SQL232",
+  "crc": "PASS",
+  "runtimeSourceIdentical": true,
+  "rootPublicIdentical": true,
+  "updaterLocalPreparationChecks": 7,
+  "updaterLocalPreparation": "PASS",
+  "uiTestingOwner": "USER_ALWAYS",
+  "uiTestsExecuted": false,
+  "onlineTestsExecuted": false,
+  "liveFinancialWritesExecuted": false,
+  "deployed": false,
+  "runtimeHashes": {
+    "app.js": "063e040f8589f280a75b493e4a1a7959c94a4947b53d5ba33f63c6b96fe7b79e",
+    "index.html": "b3ac49c4cea291f07444e7d3eded00a692e545c1029d6ac9da8b7f000da10303",
+    "styles.css": "7774df826e76d7ce8d21ea30c5867bd653bcf663abd50661a815bd3a3cb0534e",
+    "worker.js": "8f34bedebecc0bf27a3700a348213ca51a7b05d0a22b5deb8a02e52631774b32",
+    "wrangler.toml": "11580256a1830cf40b880645d3397939af1ffefb52fcc04af000a434274969f9"
+  },
+  "files": {
+    "RELEASE_NOTES_V2.5.178_AR.md": {
+      "bytes": 5003,
+      "sha256": "ba4ee35641d5c9061cb20c0f72d7cfb87d3a73bde5429edc188d14f0668a7427"
+    },
+    "STAGING_86_Original_SQL233_UNIFIED_COLLECTION_BATCHES.sql": {
+      "bytes": 10626,
+      "sha256": "a93ee6f622584618adc81298c3befc82fb0c6cdc609cab38881d5b2860fe376a"
+    },
+    "Tower_App_V2.5.178-SOURCE.zip": {
+      "bytes": 16303508,
+      "sha256": "ad30fbad95565593fc3c8f0a57350056b7fd792ab8682d2ad1734efa7957a303"
+    },
+    "Tower_App_V2.5.178.zip": {
+      "bytes": 351366,
+      "sha256": "a5ba0856cbf24ebf4d069e99a50d5193c6c26a099a6962f19e8ceb85641d05ba"
+    },
+    "USER_ONLINE_TEST_V2.5.178_AR.md": {
+      "bytes": 3121,
+      "sha256": "f95771859bec6d93e2287060c24c3fbe252a149dd4f49b261a04b9403e6012e8"
+    },
+    "VALIDATION_V2.5.178_AR.md": {
+      "bytes": 4361,
+      "sha256": "e7ab1d7161ff2c946c9b89df2ea6cc44aa68943aaf5f4e39496bfaa0e690581a"
+    }
+  }
+}
