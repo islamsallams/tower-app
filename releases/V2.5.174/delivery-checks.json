@@ -1,0 +1,50 @@
+{
+  "version": "V2.5.174",
+  "runtimeFileCount": 5,
+  "sourceFileCount": 321,
+  "baselineSourceFileCount": 250,
+  "allBaselinePathsPreserved": true,
+  "crc": "PASS",
+  "runtimeSourceIdentical": true,
+  "rootPublicIdentical": true,
+  "standaloneSqlMatchesSource": true,
+  "newLifecycleVerifiedOnline": false,
+  "onlineAcceptanceAssignedTo": "USER",
+  "uiTestingOwner": "USER_ALWAYS",
+  "finalUiChecksExecuted": false,
+  "runtimeFormat": "Updater root-only; public generated locally by Updater",
+  "oldSevenFinancialTests": "DEFERRED",
+  "runtimeHashes": {
+    "app.js": "69f4fe8ad69e58117221cce87e28eec93794e41a17d5c26b0c72c4d9824283fa",
+    "index.html": "ac753fbc4cc52f2983677b40f856e37d0fc47304a02a2f7922a4dda308131504",
+    "styles.css": "39e89a02deb136a27f2c28a304cad783fa6ea215f5b18e3d6b66e22c22a46e54",
+    "worker.js": "8893e8e547720a867e1a03232bae3d305aa81e1cb88d2e6fbc5eaad8ba7381ef",
+    "wrangler.toml": "11580256a1830cf40b880645d3397939af1ffefb52fcc04af000a434274969f9"
+  },
+  "files": {
+    "RELEASE_NOTES_V2.5.174_AR.md": {
+      "bytes": 6344,
+      "sha256": "716f4f16a96023102aab00e01820e0064572e474d76cabf526d7813f2bc3f699"
+    },
+    "STAGING_84_Original_SQL231_TASK_WORKSPACE_AND_PERSON_LABELS.sql": {
+      "bytes": 12864,
+      "sha256": "1f64b9c55f2d564bd38dd6b94166758efca935e9e5de7ecc1a74fcfb107fea8a"
+    },
+    "Tower_App_V2.5.174-SOURCE.zip": {
+      "bytes": 16170964,
+      "sha256": "d0dc1f909f7423350e2a097cb7bd7166d9ee1757a4f84eb6a269d45219899d07"
+    },
+    "Tower_App_V2.5.174.zip": {
+      "bytes": 338012,
+      "sha256": "015cc142f0c3c55fdcb5b2965b9566c302e7d3f25db0e5fce4754ecb7795415c"
+    },
+    "USER_ONLINE_TEST_V2.5.174_AR.md": {
+      "bytes": 5921,
+      "sha256": "0d508f1e36f6c657aa896a4f8b34e268f4e4f41b739ed3ba61f745c1b3264230"
+    },
+    "VALIDATION_V2.5.174_AR.md": {
+      "bytes": 5509,
+      "sha256": "545bbb08a9e5cdcf70269a554d6c7e2967c21def6cb95a0d462c20d808d89bcd"
+    }
+  }
+}
