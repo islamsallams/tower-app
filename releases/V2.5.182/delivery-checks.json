@@ -29,28 +29,34 @@
   },
   "files": {
     "RELEASE_NOTES_V2.5.182_AR.md": {
-      "bytes": 4915,
-      "sha256": "dc2eb7373dd1b1d7d2804c421bfbd970f2e73d684b6239378941dcd0a7385e2d"
+      "bytes": 5388,
+      "sha256": "dd09a1b8d1ee48b906ebeadea1e6b92465de7baac3a734cca98c649c4f91f29d"
     },
     "STAGING_90_Original_SQL238_UNIT_PRIVACY_AND_TASK_FIXES.sql": {
-      "bytes": 13930,
-      "sha256": "322a91320a4a22f60fefaa4368cae2d959cbf4322152e8d300d34723db54c0fc"
+      "bytes": 13987,
+      "sha256": "17ea3962d26c79eacd6b948053d2ad0b14c4ef03c3f7cda6ec6cdd2968b43eb6"
     },
     "Tower_App_V2.5.182-SOURCE.zip": {
-      "bytes": 16538459,
-      "sha256": "1f632ea7fe4d995ab7c74af4baa2f229e8ea5aeb4d8151ef9d4bb76593074fe5"
+      "bytes": 16539274,
+      "sha256": "1aacff6dd8466375b382345ed1821901f95421438994f22a274dcafa8d702f11"
+    },
+    "VALIDATION_V2.5.182_AR.md": {
+      "bytes": 5974,
+      "sha256": "0da45424697f2c60e1369b2a421d8ffff3fbe0607533d6dc01a911c686ddc7e7"
     },
     "Tower_App_V2.5.182.zip": {
       "bytes": 363952,
       "sha256": "bccb1d2b0a565b6aedb53b682861161e890c45870a0e5381f8e7e7be8291026e"
     },
     "USER_ONLINE_TEST_V2.5.182_AR.md": {
-      "bytes": 3736,
-      "sha256": "4f49d310326e2279484039f6f80c1e518bff2a1a45a93b3d94eb9594ef616c46"
-    },
-    "VALIDATION_V2.5.182_AR.md": {
-      "bytes": 5501,
-      "sha256": "aaaa5d1a156f16848d4b8161104b3c2553e5f65b09ea1d54061c9d7ec0b43c1d"
+      "bytes": 4209,
+      "sha256": "0e5222acc93e31b17f911c90867289a2f42e9adbec8a41afa61658b5801dc123"
     }
+  },
+  "sql238FormatCorrection": {
+    "supportsCrLfAndIndentedBegin": true,
+    "injectsOuterBeginOnly": true,
+    "sqlRegressionChecks": 14,
+    "runtimeUnchanged": true
   }
 }

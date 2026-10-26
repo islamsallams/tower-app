@@ -58,10 +58,10 @@ BEGIN
   src:=pg_get_functiondef(oid_value);
   IF position('tower_assert_unit_account_view_238' IN src)=0 THEN
    -- Match the outer BEGIN only, before the first statement of these known PL/pgSQL readers.
-   needle:=substring(src FROM E'(?i)\nBEGIN[ \t]*\n');
+   needle:=substring(src FROM E'(?in)^[ \t]*BEGIN[ \t]*\r?$');
    IF needle IS NULL THEN RAISE EXCEPTION 'UNSUPPORTED_ACCOUNT_READER: %',spec.signature; END IF;
    injection:=needle||' PERFORM public.tower_assert_unit_account_view_238(p_token,'||spec.unit_expr||','||spec.service_expr||');'||chr(10);
-   src:=replace(src,needle,injection);EXECUTE src;
+   src:=overlay(src placing injection FROM position(needle IN src) FOR length(needle));EXECUTE src;
   END IF;
  END LOOP;
  oid_value:=to_regprocedure('public.tower_resident_fund_overview_for_unit(text,uuid)');
