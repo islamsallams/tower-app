@@ -1,0 +1,52 @@
+{
+  "version": "V2.5.176",
+  "runtimeFileCount": 5,
+  "sourceFileCount": 345,
+  "baselineSourceFileCount": 338,
+  "allBaselinePathsPreserved": true,
+  "appBehaviorDiff": "one loading-markup line only; release stamps updated",
+  "workerBehaviorUnchanged": true,
+  "stylesUnchanged": true,
+  "oldSqlFilesUnchanged": true,
+  "newSql": false,
+  "requiredExistingSql": "SQL232 from V2.5.175",
+  "crc": "PASS",
+  "runtimeSourceIdentical": true,
+  "rootPublicIdentical": true,
+  "updaterLocalPreparationChecks": 7,
+  "updaterLocalPreparation": "PASS",
+  "uiTestingOwner": "USER_ALWAYS",
+  "uiTestsExecuted": false,
+  "onlineTestsExecuted": false,
+  "financialCyclesExecuted": false,
+  "deployed": false,
+  "runtimeHashes": {
+    "app.js": "b14186e01b0df58432dddb2b86dc4d5d99468f3e1e645a7bab366284d9b24a03",
+    "index.html": "bd4ec0a442239bea55b1be18c926e1ae57ac5190dd1237b956316457259be79a",
+    "styles.css": "0e010e1d9ff005e2ad652e04a1340fb8b631f99cf88a90a5959b0eeb7f79767c",
+    "worker.js": "7c67a152a3010cc82ecc1b1a08343fbb5c5c568b2c9b0d2ae9757208703df721",
+    "wrangler.toml": "11580256a1830cf40b880645d3397939af1ffefb52fcc04af000a434274969f9"
+  },
+  "files": {
+    "RELEASE_NOTES_V2.5.176_AR.md": {
+      "bytes": 1793,
+      "sha256": "e5a86540471b8bcf9336137fc4090de6434ec896809954631696d7b5c5351baa"
+    },
+    "Tower_App_V2.5.176-SOURCE.zip": {
+      "bytes": 16236852,
+      "sha256": "d586fb71704dab87fd79c843e9099e131e61129e78b82e195747b9b11109d38e"
+    },
+    "Tower_App_V2.5.176.zip": {
+      "bytes": 343517,
+      "sha256": "2d3de46e63ee3b1a198036695358a544fedbeac9314bcc3117f52922bf49a098"
+    },
+    "USER_ONLINE_TEST_V2.5.176_AR.md": {
+      "bytes": 684,
+      "sha256": "958294f320377949532f4032e7067a8ee165a7b556287eba71c9168e491eeee0"
+    },
+    "VALIDATION_V2.5.176_AR.md": {
+      "bytes": 1653,
+      "sha256": "f48417c35b4eab09a32aff8a028ee450b414f77d47a80d7cdbee97ce1344e587"
+    }
+  }
+}
