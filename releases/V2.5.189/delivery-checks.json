@@ -1,0 +1,53 @@
+{
+  "version": "V2.5.189",
+  "runtimeFileCount": 5,
+  "sourceFileCount": 589,
+  "baselineSourceFileCount": 575,
+  "allBaselinePathsPreserved": true,
+  "oldSqlFilesUnchanged": true,
+  "standaloneSqlMatchesSource": null,
+  "newSql": null,
+  "sqlRequired": false,
+  "installationInstruction": "Upload runtime ZIP189 only; no SQL required",
+  "crc": "PASS",
+  "runtimeSourceIdentical": true,
+  "rootPublicIdentical": true,
+  "updaterLocalPreparationChecks": 7,
+  "updaterLocalPreparation": "PASS",
+  "uiTestingOwner": "USER_ALWAYS",
+  "uiTestsExecuted": false,
+  "uiTestExecutionNote": "No browser or screen tests in this batch; user owns visual and online acceptance",
+  "screenAcceptance": "PENDING_USER",
+  "onlineTestsExecuted": false,
+  "liveFinancialWritesExecuted": false,
+  "deployed": false,
+  "runtimeHashes": {
+    "app.js": "82c28ae3d9a79ee02a81335775304f461e2c678c74325339dec8f63a8ff55b3b",
+    "index.html": "300e5c9e627c161d111271ab9a93e816ebb42b860cd7c5920c20bdfba07cac0d",
+    "styles.css": "c9233282ddd4f1ce5182cb62a89030ef250ea9c01b3e4b7a3b8f417586c1cd26",
+    "worker.js": "379f4f74714e29ee0f398d9d392b0966c010a3eea494063946112de8fb6e583c",
+    "wrangler.toml": "11580256a1830cf40b880645d3397939af1ffefb52fcc04af000a434274969f9"
+  },
+  "files": {
+    "RELEASE_NOTES_V2.5.189_AR.md": {
+      "bytes": 2143,
+      "sha256": "45723f38d1d662343002040be928810aae326d3970dfa90b899a963c0d0eaa95"
+    },
+    "Tower_App_V2.5.189-SOURCE.zip": {
+      "bytes": 16838377,
+      "sha256": "4d0c55f8712f5e3bc901764cb3432b6350b53f1d6387398790b8e6d6f50cc249"
+    },
+    "Tower_App_V2.5.189.zip": {
+      "bytes": 383256,
+      "sha256": "dbf637da8169778e2e62e3af294ab520371ede328821b0db440e22b38b522dbc"
+    },
+    "USER_ONLINE_TEST_V2.5.189_AR.md": {
+      "bytes": 2666,
+      "sha256": "2eafa0d96e6ea6e65030c0e538cbce5c02da959baaac16460ddbce506f0d2257"
+    },
+    "VALIDATION_V2.5.189_AR.md": {
+      "bytes": 1787,
+      "sha256": "9ade83a93b5e1334239de5ad1b6846b4ea58e96b9ac6e062d57efa4048f65a41"
+    }
+  }
+}
