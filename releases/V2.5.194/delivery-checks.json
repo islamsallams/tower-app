@@ -1,0 +1,63 @@
+{
+  "version": "V2.5.194",
+  "runtimeFileCount": 5,
+  "sourceFileCount": 671,
+  "baselineSourceFileCount": 656,
+  "allBaselinePathsPreserved": true,
+  "allBaselineFilesExceptDeclaredRuntimeAndAgreementsUnchanged": true,
+  "oldSqlAndQaUnchanged": true,
+  "newSql": "SQL246_TRIP_APPROVAL_CASH_UNDO_V2.5.194.sql",
+  "sqlRequired": true,
+  "standaloneSqlMatchesSource": true,
+  "crc": "PASS",
+  "runtimeSourceIdentical": true,
+  "rootPublicIdentical": true,
+  "updaterLocalPreparationChecks": 9,
+  "updaterLocalPreparation": "PASS",
+  "tests": {
+    "newSql246": 12,
+    "sqlRegression": 20,
+    "previewModel": 8,
+    "settlementModel": 13,
+    "workerContracts": 5,
+    "updater": 9
+  },
+  "uiTestingOwner": "USER_ALWAYS",
+  "uiTestsExecuted": false,
+  "onlineTestsExecuted": false,
+  "liveFinancialWritesExecuted": false,
+  "deployed": false,
+  "runtimeHashes": {
+    "app.js": "eb971f817833c495ed3652123ed6bf7809e7d1db8c928fed5c8866cbd23ad8f8",
+    "index.html": "5f5bbce1a3dae8d596bc84c86bf2849abc519fc9f5a38d1e39da778000d2ebfd",
+    "styles.css": "c0210700ad3760a7f4ae32283c997e9e37ddb3a2f371a1a936dfbd6d1d00750f",
+    "worker.js": "f5f74bb58ceefd8ebda9fe31706cd9944813f3fccb569a06f4871f7e6ae9e6db",
+    "wrangler.toml": "11580256a1830cf40b880645d3397939af1ffefb52fcc04af000a434274969f9"
+  },
+  "files": {
+    "SQL246_TRIP_APPROVAL_CASH_UNDO_V2.5.194.sql": {
+      "bytes": 20698,
+      "sha256": "8d6da2be3adc487e3dd1d3ac1910bfdd678c47cffdc662c78f64476926137c2f"
+    },
+    "Tower_App_V2.5.194-SOURCE.zip": {
+      "bytes": 17067680,
+      "sha256": "b515f2aa089983505f080a04c2e6b0c51bb1578dd9dbdfe6008bc5ee3aab27b0"
+    },
+    "Tower_App_V2.5.194.zip": {
+      "bytes": 394017,
+      "sha256": "1cf93d10055a4e16da332e8b83461d69e2f7c6ed1ea6d36c2ffa890c4defecc7"
+    },
+    "VALIDATION_V2.5.194_AR.md": {
+      "bytes": 3499,
+      "sha256": "b0502afdebf69e8a2f891082dbe9004ac3dcc4d5ab94647e0afb463761c4836c"
+    },
+    "USER_ONLINE_TEST_V2.5.194_AR.md": {
+      "bytes": 4648,
+      "sha256": "f3f45fe9b460dd81bef4b64063382cf74ed70540bf32e3f4b87b083460c716c3"
+    },
+    "RELEASE_NOTES_V2.5.194_AR.md": {
+      "bytes": 3344,
+      "sha256": "09340db44ca31e6966fc10d341b140d9a32c98a4f12cc7540d3950c38627e801"
+    }
+  }
+}
