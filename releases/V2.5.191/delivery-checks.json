@@ -35,20 +35,21 @@
       "sha256": "0afff045196480ac44581851fdee0006a1a8cca45ca63c87e1970fcff30d6e34"
     },
     "Tower_App_V2.5.191-SOURCE.zip": {
-      "bytes": 16930841,
-      "sha256": "7e0606cf33c1fdafb8016e960c45cbc11405caee8f09c80a3835802b76cf1bbf"
+      "bytes": 16952038,
+      "sha256": "10449e95f77e7b796e2d2bb83f265d0cce56fac1b16d022eff5fc6701b7e76da"
     },
     "Tower_App_V2.5.191.zip": {
       "bytes": 387827,
       "sha256": "89e04236d79d5e0944e259c5fe945c084f102c4fd0945bf3e668479ea581b1f9"
     },
     "USER_ONLINE_TEST_V2.5.191_AR.md": {
-      "bytes": 2537,
-      "sha256": "f58129e55f56917af8e712e4c92276981533b6fbc08b141a6af44dd8610c0ac3"
+      "bytes": 3289,
+      "sha256": "5a15d2e998ae621c615132321e51b5abe79e17b8a2511ed31c74eb46491dc64e"
     },
     "RELEASE_NOTES_V2.5.191_AR.md": {
       "bytes": 3906,
       "sha256": "18cca5ab34afade0eb4f3d36c2df087040ce966020a1dad69317cfba3fd1972b"
     }
-  }
+  },
+  "testGuideDirection": "Explicit RTL wrapper and HTML table; right-aligned header/cells; content unchanged; no screen test"
 }
