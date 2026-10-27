@@ -1,0 +1,54 @@
+{
+  "version": "V2.5.191",
+  "runtimeFileCount": 5,
+  "sourceFileCount": 626,
+  "baselineSourceFileCount": 609,
+  "allBaselinePathsPreserved": true,
+  "oldSqlAndQaUnchanged": true,
+  "newSql": "SQL243_RESIDENT_UNIT_DUES_SUMMARY_V2.5.191.sql",
+  "sqlRequired": true,
+  "standaloneSqlMatchesSource": true,
+  "crc": "PASS",
+  "runtimeSourceIdentical": true,
+  "rootPublicIdentical": true,
+  "updaterLocalPreparationChecks": 9,
+  "updaterLocalPreparation": "PASS",
+  "uiTestingOwner": "USER_ALWAYS",
+  "uiTestsExecuted": false,
+  "onlineTestsExecuted": false,
+  "liveFinancialWritesExecuted": false,
+  "deployed": false,
+  "runtimeHashes": {
+    "app.js": "1497025c02238c19b1ed5050d968ff755dd0503de579215a8da6a6fae7bd25a2",
+    "index.html": "ea4a2781964fe5f99a3b4b0e9ba86383183692bf2663e3c4887c3305e903fdda",
+    "styles.css": "cf2fafa5fac2a08512385d1bccbad7f815ef7d48fb8dafc704e5dfcd8a4db553",
+    "worker.js": "71f542ad06cb62df4e51928d55e03a093dd1f36eeefe702de58fc91327bcd33c",
+    "wrangler.toml": "11580256a1830cf40b880645d3397939af1ffefb52fcc04af000a434274969f9"
+  },
+  "files": {
+    "VALIDATION_V2.5.191_AR.md": {
+      "bytes": 3681,
+      "sha256": "bab40537bc7782ea01bbf67db002347a86757b3b8e58816205845dc7a5806826"
+    },
+    "SQL243_RESIDENT_UNIT_DUES_SUMMARY_V2.5.191.sql": {
+      "bytes": 3922,
+      "sha256": "0afff045196480ac44581851fdee0006a1a8cca45ca63c87e1970fcff30d6e34"
+    },
+    "Tower_App_V2.5.191-SOURCE.zip": {
+      "bytes": 16930841,
+      "sha256": "7e0606cf33c1fdafb8016e960c45cbc11405caee8f09c80a3835802b76cf1bbf"
+    },
+    "Tower_App_V2.5.191.zip": {
+      "bytes": 387827,
+      "sha256": "89e04236d79d5e0944e259c5fe945c084f102c4fd0945bf3e668479ea581b1f9"
+    },
+    "USER_ONLINE_TEST_V2.5.191_AR.md": {
+      "bytes": 2537,
+      "sha256": "f58129e55f56917af8e712e4c92276981533b6fbc08b141a6af44dd8610c0ac3"
+    },
+    "RELEASE_NOTES_V2.5.191_AR.md": {
+      "bytes": 3906,
+      "sha256": "18cca5ab34afade0eb4f3d36c2df087040ce966020a1dad69317cfba3fd1972b"
+    }
+  }
+}
