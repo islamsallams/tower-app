@@ -1,7 +1,7 @@
 {
   "version": "V2.5.184",
   "runtimeFileCount": 5,
-  "sourceFileCount": 499,
+  "sourceFileCount": 502,
   "baselineSourceFileCount": 479,
   "allBaselinePathsPreserved": true,
   "oldSqlFilesUnchanged": true,
@@ -24,33 +24,33 @@
     "app.js": "0f36fc77d5737240b487528498d5caec07dfbbf971f304d6aef53c958589b3e7",
     "index.html": "01295231ec4da0abe0459eb26498de2cac8a6618986818f6e01786911367b94d",
     "styles.css": "2bb70533e9afaa78bc8976d518474aa7ce9fe2b5f4f3327cb3392f271cf7331f",
-    "worker.js": "60acc64d38cd5e72a0eb21334c621c1ff26bac25f67292e92031e91af23e119a",
+    "worker.js": "42aea57c83dd6f4df5a4c9510be221ee1d4f9020700ebccd8516dabad3f2af5e",
     "wrangler.toml": "11580256a1830cf40b880645d3397939af1ffefb52fcc04af000a434274969f9"
   },
   "files": {
     "RELEASE_NOTES_V2.5.184_AR.md": {
-      "bytes": 3376,
-      "sha256": "8c6609b24c4098fff2521f53e83553a1d0e2e9d83dcbe1f21ebcfa5cba3e7cce"
+      "bytes": 3939,
+      "sha256": "58ba5374fb424bdbc0c26e4d8e5fba85a50c9671aa5198854ede6509bf7235ea"
     },
     "STAGING_92_Original_SQL240_CHARGE_MANAGEMENT.sql": {
       "bytes": 12425,
       "sha256": "17d6643ad314088932351a3ccbb06f3fba7eb9a409c97dca196ba845260114ae"
     },
     "Tower_App_V2.5.184-SOURCE.zip": {
-      "bytes": 16649845,
-      "sha256": "346dd901ac466f7aa28d7cba8c7316330ca02fe9366f9b2f856fcc82c59350fa"
+      "bytes": 16651602,
+      "sha256": "c34e1b9d1f04a4e702290c2bd8139034f52f671950583e25d2fc6e36b81099b1"
     },
     "Tower_App_V2.5.184.zip": {
-      "bytes": 374587,
-      "sha256": "d52949bff7dbf004082042b0f2c0f78f67297e21eb6a1885ca1802ca046463cb"
+      "bytes": 374575,
+      "sha256": "08f4d02630268056d62a24a15e2867eba03efbc591beedef9b132dc01ee4e50a"
     },
     "USER_ONLINE_TEST_V2.5.184_AR.md": {
       "bytes": 3172,
       "sha256": "3664c787de52652225b64f605ab75b4f515163872d828a771e10d6f4e29cf403"
     },
     "VALIDATION_V2.5.184_AR.md": {
-      "bytes": 3262,
-      "sha256": "3e332a2e7e22fe9fb01c2fb42f65659d16688bc4c1c7bef4be61b48dc5bd044e"
+      "bytes": 3737,
+      "sha256": "f1a73ea9f0eae2ae9d8503cf20bbd4e30a3a9290fabe2cc5b4faa97a8a5798a0"
     }
   }
 }
