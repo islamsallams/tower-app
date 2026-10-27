@@ -1,0 +1,53 @@
+{
+  "version": "V2.5.186",
+  "runtimeFileCount": 5,
+  "sourceFileCount": 555,
+  "baselineSourceFileCount": 532,
+  "allBaselinePathsPreserved": true,
+  "oldSqlFilesUnchanged": true,
+  "standaloneSqlMatchesSource": null,
+  "newSql": null,
+  "sqlRequired": false,
+  "installationInstruction": "Upload runtime ZIP186 only; no SQL required",
+  "crc": "PASS",
+  "runtimeSourceIdentical": true,
+  "rootPublicIdentical": true,
+  "updaterLocalPreparationChecks": 7,
+  "updaterLocalPreparation": "PASS",
+  "uiTestingOwner": "USER_ALWAYS",
+  "uiTestsExecuted": false,
+  "uiTestExecutionNote": "No browser or screen tests in this batch; user owns visual and online acceptance",
+  "screenAcceptance": "PENDING_USER",
+  "onlineTestsExecuted": false,
+  "liveFinancialWritesExecuted": false,
+  "deployed": false,
+  "runtimeHashes": {
+    "app.js": "4fedf9297fcf98e08f7227556e82b4fba4739233fb1dc0fbf97b5fd168b919a2",
+    "index.html": "eb0ec726b30130f6af8f900a4fda42f76cf62e1ef6bb832c7757416bc908c760",
+    "styles.css": "a819454108b1b7d1c236012b9a039705512dbb2c76c07147dbbd6a20d55d3cf2",
+    "worker.js": "72e9225f4a56a69b554e4a76bbe795fa614e664e2cc492a809aa01f012017490",
+    "wrangler.toml": "11580256a1830cf40b880645d3397939af1ffefb52fcc04af000a434274969f9"
+  },
+  "files": {
+    "RELEASE_NOTES_V2.5.186_AR.md": {
+      "bytes": 3297,
+      "sha256": "5e5732fbf486b5bd9d01a9fd31388cbc98f75e0ef6a604fe6c39a4a7852ef0f9"
+    },
+    "Tower_App_V2.5.186-SOURCE.zip": {
+      "bytes": 16749175,
+      "sha256": "191341820631782dea370c6cc151b7a58d5736004389970e881c82060462c4e2"
+    },
+    "Tower_App_V2.5.186.zip": {
+      "bytes": 380154,
+      "sha256": "f67f6cdd496bb5e38b90a821dabbfd309e2569f50348ade9cc0c08efd8da6358"
+    },
+    "USER_ONLINE_TEST_V2.5.186_AR.md": {
+      "bytes": 3544,
+      "sha256": "39fd4179e442e7312671d7c805b42da6d1c1d4d813f0ff19a6983acad77378b0"
+    },
+    "VALIDATION_V2.5.186_AR.md": {
+      "bytes": 3713,
+      "sha256": "6753db4c6ce0bd8cecd532f35939443b79558935e5f7429cba36ad1f56d709ed"
+    }
+  }
+}
