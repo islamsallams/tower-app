@@ -1,0 +1,57 @@
+{
+  "version": "V2.5.195",
+  "runtimeFileCount": 5,
+  "sourceFileCount": 684,
+  "baselineSourceFileCount": 671,
+  "allBaselinePathsPreserved": true,
+  "oldSqlAndQaAndTestsUnchanged": true,
+  "newSql": null,
+  "sqlRequired": false,
+  "crc": "PASS",
+  "runtimeSourceIdentical": true,
+  "rootPublicIdentical": true,
+  "updaterLocalPreparationChecks": 9,
+  "updaterLocalPreparation": "PASS",
+  "tests": {
+    "newOverviewModel": 8,
+    "residentRegression": 12,
+    "previewRegression": 8,
+    "settlementRegression": 13,
+    "workerContracts": 5,
+    "updater": 9
+  },
+  "uiTestingOwner": "USER_ALWAYS",
+  "uiTestsExecuted": false,
+  "onlineTestsExecuted": false,
+  "liveFinancialWritesExecuted": false,
+  "deployed": false,
+  "runtimeHashes": {
+    "app.js": "86bf110894bf56e7287bd4a4aeafddad72b2738fb0dd859fb268c7132757f5a0",
+    "index.html": "d0b45b89452d54e46d07dd0e77b8663f1a8c7a0b62f62c2a5c2c6b5dd637ea83",
+    "styles.css": "d56ff86acfbd86a249eef885fca8e8e602723b2cf5798a19ffdb1bdf994817d0",
+    "worker.js": "06bdd15e9a4951c359d0b2cfca05883f3f51cc8ab62aa009706ddb8872c71746",
+    "wrangler.toml": "11580256a1830cf40b880645d3397939af1ffefb52fcc04af000a434274969f9"
+  },
+  "files": {
+    "Tower_App_V2.5.195-SOURCE.zip": {
+      "bytes": 17100910,
+      "sha256": "4c5a248de3189db85886ea75dac9a0feca3edee1fbb752d2bf98d225709d9463"
+    },
+    "USER_ONLINE_TEST_V2.5.195_AR.md": {
+      "bytes": 4502,
+      "sha256": "ab2a4e1b19823c1d29f82449c8d397368b441c37b8b38b92a6256d095238356d"
+    },
+    "Tower_App_V2.5.195.zip": {
+      "bytes": 395322,
+      "sha256": "37ad7d912e487a889233f29525d5efa4f2f25e372c33d19e532f8386ea2c6437"
+    },
+    "RELEASE_NOTES_V2.5.195_AR.md": {
+      "bytes": 3494,
+      "sha256": "62f63d68f051143afaf210fc86761261c78848b1c4e371466bef23b3cfb75d1c"
+    },
+    "VALIDATION_V2.5.195_AR.md": {
+      "bytes": 3220,
+      "sha256": "fffc9a81168a547a09bc7b46a31a03852de79687803f3fe3838c9d3949a40b54"
+    }
+  }
+}
