@@ -1,0 +1,53 @@
+{
+  "version": "V2.5.188",
+  "runtimeFileCount": 5,
+  "sourceFileCount": 575,
+  "baselineSourceFileCount": 563,
+  "allBaselinePathsPreserved": true,
+  "oldSqlFilesUnchanged": true,
+  "standaloneSqlMatchesSource": null,
+  "newSql": null,
+  "sqlRequired": false,
+  "installationInstruction": "Upload runtime ZIP188 only; no SQL required",
+  "crc": "PASS",
+  "runtimeSourceIdentical": true,
+  "rootPublicIdentical": true,
+  "updaterLocalPreparationChecks": 7,
+  "updaterLocalPreparation": "PASS",
+  "uiTestingOwner": "USER_ALWAYS",
+  "uiTestsExecuted": false,
+  "uiTestExecutionNote": "No browser or screen tests in this batch; user owns visual and online acceptance",
+  "screenAcceptance": "PENDING_USER",
+  "onlineTestsExecuted": false,
+  "liveFinancialWritesExecuted": false,
+  "deployed": false,
+  "runtimeHashes": {
+    "app.js": "551473e53ed6e174a00ba275b6daf61e1d74b5cf5574bb5a2cfacf0781ba4972",
+    "index.html": "360561a9b48343d026b722c7b0666647fc5ed8126885a32410234e3d895ac359",
+    "styles.css": "3b0ced6474ce8fe6182666797442183c2c749025c89557ff3f8a5f81156903e0",
+    "worker.js": "9815f93d3fb3cbf8eba4bba4db5e4637dc977319f7065a12f763b01bdeb59ec4",
+    "wrangler.toml": "11580256a1830cf40b880645d3397939af1ffefb52fcc04af000a434274969f9"
+  },
+  "files": {
+    "RELEASE_NOTES_V2.5.188_AR.md": {
+      "bytes": 1908,
+      "sha256": "06a94d94174fba67465609df02c6786f432bb86b780fab9702ef2e3c4f6df07f"
+    },
+    "Tower_App_V2.5.188-SOURCE.zip": {
+      "bytes": 16803938,
+      "sha256": "144cbcb2c104c14afc3b390212b6d055238ff8c971eeac38d0f9065891a7ea92"
+    },
+    "Tower_App_V2.5.188.zip": {
+      "bytes": 381807,
+      "sha256": "83d40984bc531eadafce08ac7de3034ce4983edeab65d689327f61c1fa4f33f5"
+    },
+    "USER_ONLINE_TEST_V2.5.188_AR.md": {
+      "bytes": 2371,
+      "sha256": "74cf5373353e5a27d54165effa7128c57dc6c1d14e7ca4032b9e2234cc5f9afa"
+    },
+    "VALIDATION_V2.5.188_AR.md": {
+      "bytes": 1375,
+      "sha256": "bbd85ea84540b26e40c118bb712135909ec2ff0c8fafd39d051faff05201aaef"
+    }
+  }
+}
