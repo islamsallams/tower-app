@@ -1,0 +1,54 @@
+{
+  "version": "V2.5.192",
+  "runtimeFileCount": 5,
+  "sourceFileCount": 646,
+  "baselineSourceFileCount": 626,
+  "allBaselinePathsPreserved": true,
+  "oldSqlAndQaUnchanged": true,
+  "newSql": "SQL244_TRIP_SETTLEMENT_PAYMENTS_AND_UNDO_V2.5.192.sql",
+  "sqlRequired": true,
+  "standaloneSqlMatchesSource": true,
+  "crc": "PASS",
+  "runtimeSourceIdentical": true,
+  "rootPublicIdentical": true,
+  "updaterLocalPreparationChecks": 9,
+  "updaterLocalPreparation": "PASS",
+  "uiTestingOwner": "USER_ALWAYS",
+  "uiTestsExecuted": false,
+  "onlineTestsExecuted": false,
+  "liveFinancialWritesExecuted": false,
+  "deployed": false,
+  "runtimeHashes": {
+    "app.js": "3e8d21b26bf88c0ab3d3649ad85142bf34ca82321eca98effedac81177d1e601",
+    "index.html": "1cb40329946093aaad2a29195a14af41698d605612f06c89c5e35ce0f29ef847",
+    "styles.css": "842ee781c8652336a60a497277edca2aa322e76d27bf4a5e1d00f1d421c6c0d6",
+    "worker.js": "ada786bdab958b9c7754500042d5e5f430ecb0761cc8ab1eee59b5507060ef40",
+    "wrangler.toml": "11580256a1830cf40b880645d3397939af1ffefb52fcc04af000a434274969f9"
+  },
+  "files": {
+    "USER_ONLINE_TEST_V2.5.192_AR.md": {
+      "bytes": 4302,
+      "sha256": "4d9740f8f50d5d5b2887b537281daeaa94a6b33215c715ce815dea02e0748879"
+    },
+    "Tower_App_V2.5.192-SOURCE.zip": {
+      "bytes": 16987727,
+      "sha256": "f9aec31a66963a616d5b245886eaf28d51bd8ffebe13b41d058ea13631556208"
+    },
+    "RELEASE_NOTES_V2.5.192_AR.md": {
+      "bytes": 5853,
+      "sha256": "040a2b7366a05067a5bfddd5fc1a2273783af7fb313fc7a1383c573bb2fec8d0"
+    },
+    "SQL244_TRIP_SETTLEMENT_PAYMENTS_AND_UNDO_V2.5.192.sql": {
+      "bytes": 16041,
+      "sha256": "16651c866485cf354f35341035ca8c8dd8a84769280d8c3f67f60890ff0e5869"
+    },
+    "VALIDATION_V2.5.192_AR.md": {
+      "bytes": 4342,
+      "sha256": "4b17784898ec3ece9776c040af4696e0e85a3822ec27ed6a4380793ca11b5834"
+    },
+    "Tower_App_V2.5.192.zip": {
+      "bytes": 392470,
+      "sha256": "a2e9cd408bcd6a1bb3bdd518cc093426dc560d905cb61e102ee561faf43584d8"
+    }
+  }
+}
