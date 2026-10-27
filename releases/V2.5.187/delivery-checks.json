@@ -1,0 +1,53 @@
+{
+  "version": "V2.5.187",
+  "runtimeFileCount": 5,
+  "sourceFileCount": 563,
+  "baselineSourceFileCount": 555,
+  "allBaselinePathsPreserved": true,
+  "oldSqlFilesUnchanged": true,
+  "standaloneSqlMatchesSource": null,
+  "newSql": null,
+  "sqlRequired": false,
+  "installationInstruction": "Upload runtime ZIP187 only; no SQL required",
+  "crc": "PASS",
+  "runtimeSourceIdentical": true,
+  "rootPublicIdentical": true,
+  "updaterLocalPreparationChecks": 7,
+  "updaterLocalPreparation": "PASS",
+  "uiTestingOwner": "USER_ALWAYS",
+  "uiTestsExecuted": false,
+  "uiTestExecutionNote": "No browser or screen tests in this batch; user owns visual and online acceptance",
+  "screenAcceptance": "PENDING_USER",
+  "onlineTestsExecuted": false,
+  "liveFinancialWritesExecuted": false,
+  "deployed": false,
+  "runtimeHashes": {
+    "app.js": "fe10a9bd874cf6367b22bc6b0fe87b7c17a329760e3320146842ff75c4c236a8",
+    "index.html": "1874e1783ec24fcc392c85b05f1ba86d4e3f4759ef19bb4509bd0d5f7ca18c8a",
+    "styles.css": "a819454108b1b7d1c236012b9a039705512dbb2c76c07147dbbd6a20d55d3cf2",
+    "worker.js": "136092ee0ec4e231e51bbaff4ce3e378f0cb323bc2a585c38d626d74475fc32c",
+    "wrangler.toml": "11580256a1830cf40b880645d3397939af1ffefb52fcc04af000a434274969f9"
+  },
+  "files": {
+    "RELEASE_NOTES_V2.5.187_AR.md": {
+      "bytes": 944,
+      "sha256": "bd9e7e1efecdf0b4e24bc1cce0721aea110df1b4c5762abd7f5b8bb28d27736f"
+    },
+    "Tower_App_V2.5.187-SOURCE.zip": {
+      "bytes": 16771246,
+      "sha256": "89cc0045e35dcaed8abd3bbb085dd002ffd38faaeeb4c72d0479278a03c01e2a"
+    },
+    "Tower_App_V2.5.187.zip": {
+      "bytes": 380297,
+      "sha256": "c9ea67ef5c7bc9c5cdf9311cf8e2033e41f0e00967d610fb505f8065c22264bd"
+    },
+    "USER_ONLINE_TEST_V2.5.187_AR.md": {
+      "bytes": 1141,
+      "sha256": "e2cde78d08864b6e1bfca38e3bb93c2e76b1beb00f74263b9abe9c10d46e3f9d"
+    },
+    "VALIDATION_V2.5.187_AR.md": {
+      "bytes": 924,
+      "sha256": "f201c10a2b73d79210439e3b6565a5e38150413babda4e8fb7ff05961c283b9c"
+    }
+  }
+}
