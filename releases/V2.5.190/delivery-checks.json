@@ -1,0 +1,54 @@
+{
+  "version": "V2.5.190",
+  "runtimeFileCount": 5,
+  "sourceFileCount": 609,
+  "baselineSourceFileCount": 589,
+  "allBaselinePathsPreserved": true,
+  "oldSqlAndQaUnchanged": true,
+  "newSql": "SQL242_TRIP_ALERT_PREFERENCES_V2.5.190.sql",
+  "sqlRequired": true,
+  "standaloneSqlMatchesSource": true,
+  "crc": "PASS",
+  "runtimeSourceIdentical": true,
+  "rootPublicIdentical": true,
+  "updaterLocalPreparationChecks": 9,
+  "updaterLocalPreparation": "PASS",
+  "uiTestingOwner": "USER_ALWAYS",
+  "uiTestsExecuted": false,
+  "onlineTestsExecuted": false,
+  "liveFinancialWritesExecuted": false,
+  "deployed": false,
+  "runtimeHashes": {
+    "app.js": "9949120a11bc83783aaf1e63fc86956b5e080f80d48c1db7f5f6b42445a5002c",
+    "index.html": "45835f216dcfca494573b77a5eeb5b90b8f3ca6ea1d4c70372b63bb4eb276fef",
+    "styles.css": "4924a16354ab5ddbd6d2d6d6957128714a5619b3739296283f721a34ca2560f9",
+    "worker.js": "40e6acd4039ced428f1aea974c29c33bcbdb688c78ad7904fff89cc4012c1eae",
+    "wrangler.toml": "11580256a1830cf40b880645d3397939af1ffefb52fcc04af000a434274969f9"
+  },
+  "files": {
+    "SQL242_TRIP_ALERT_PREFERENCES_V2.5.190.sql": {
+      "bytes": 4191,
+      "sha256": "8fef9ec9e6808f745b0b17a41a01d59eee8db15e6d330017c8b842ad0a5f7653"
+    },
+    "Tower_App_V2.5.190-SOURCE.zip": {
+      "bytes": 16884841,
+      "sha256": "e7b65fe3ff220bf3ecbb6df447ed9dd65d5ea1f04886cec2eddbedae75f642d7"
+    },
+    "Tower_App_V2.5.190.zip": {
+      "bytes": 385618,
+      "sha256": "c340da3f714d2bb0bc89e232f56acc3d9954ff6012753845c89b121e7a008354"
+    },
+    "USER_ONLINE_TEST_V2.5.190_AR.md": {
+      "bytes": 2796,
+      "sha256": "2e018d879aed28d8280b2ebb8cb4339198806e05561e84c7b6b1a8e8daa4bbcf"
+    },
+    "VALIDATION_V2.5.190_AR.md": {
+      "bytes": 2691,
+      "sha256": "a74eb98d6e664f0f49515442d2691790c469dec14959e88ed3351f706c93e413"
+    },
+    "RELEASE_NOTES_V2.5.190_AR.md": {
+      "bytes": 3016,
+      "sha256": "0d53a5229e7407233a5b03caa7c65c60e3f655f90a5e67d1d6fc8d3270653f4a"
+    }
+  }
+}
