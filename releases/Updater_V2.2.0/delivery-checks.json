@@ -1,0 +1,45 @@
+{
+  "product": "Tower Supabase Updater",
+  "version": "2.2.0",
+  "fileCount": 39,
+  "allOriginalPackagePathsPreserved": true,
+  "crc": "PASS",
+  "newCodeUnitTests": 39,
+  "legacyRegressionFilesPassed": [
+    "test_v216.py",
+    "test_v217.py",
+    "test_v218.py",
+    "test_v219.py"
+  ],
+  "preservationChecks": 23,
+  "pythonCompile": "PASS",
+  "windowsExecutableIncluded": false,
+  "distribution": "Python source and Launcher, same launch mode as input package",
+  "uiTestsExecuted": false,
+  "windowsApiTestsExecuted": false,
+  "liveDeploymentsExecuted": false,
+  "liveDatabaseChangesExecuted": false,
+  "sqlRequired": false,
+  "applicationVersionChanged": false,
+  "uiTestOwner": "USER_ALWAYS",
+  "sameOrOlderVersionBlocksDeployment": false,
+  "autoImportDeploysAutomatically": false,
+  "files": {
+    "RELEASE_NOTES_V2_2_0_AR.md": {
+      "bytes": 2623,
+      "sha256": "8f791ee3d04cf1799f9a91a24d6aac2a7c8e0143322e007a6e5546908b9bce25"
+    },
+    "Tower_Supabase_Updater_v2.2.0.zip": {
+      "bytes": 408301,
+      "sha256": "28f47beff03fdaa98978126f8b16f207538923b8d5d303f3db9c2201fc29f5aa"
+    },
+    "USER_TEST_V2_2_0_AR.md": {
+      "bytes": 2805,
+      "sha256": "56b627a16f17c5db203809d8467940cfae854e91c844c37e92a26c696123c62e"
+    },
+    "VALIDATION_V2_2_0_AR.md": {
+      "bytes": 2158,
+      "sha256": "76698ef40002320e75629571a6aa6cc03fa7fa883120b025c86748eaac28cde3"
+    }
+  }
+}
