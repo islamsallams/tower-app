@@ -1,0 +1,55 @@
+{
+  "version": "V2.5.200",
+  "runtimeFileCount": 5,
+  "sourceFileCount": 751,
+  "baselineSourcePathsPreserved": true,
+  "oldSqlTestsQaUnchanged": true,
+  "crc": "PASS",
+  "rootPublicIdentical": true,
+  "newSql": "SQL250_UNIT_DUES_ALLOCATION_STATUS_V2.5.200.sql",
+  "sqlExecutedOnline": false,
+  "deployed": false,
+  "uiTestsExecuted": false,
+  "onlineTestsExecuted": false,
+  "tests": {
+    "surface-model-results.json": 6,
+    "unit-dues-250-sql-results.json": 11,
+    "dues-diagnostic-sql-results.json": 11,
+    "header-model-results.json": 5,
+    "updater-package-results.json": 7,
+    "personal-worker-regression.json": 4,
+    "guard-summary-regression.json": 4,
+    "guard-page-regression.json": 9,
+    "favorites-regression.json": 12,
+    "settlement-worker-regression.json": 5,
+    "preview-regression.json": 8
+  },
+  "files": {
+    "Tower_App_V2.5.200.zip": {
+      "bytes": 402509,
+      "sha256": "16ae3d717f4acbc1f3d5e1ee2395c3cc0acca34a5aee949ae189ecc038dd8105"
+    },
+    "VALIDATION_V2.5.200_AR.md": {
+      "bytes": 2459,
+      "sha256": "d3a39a96d580249969e61fab6b57346dd1802dacac626953278f3cc9320694a3"
+    },
+    "SQL250_UNIT_DUES_ALLOCATION_STATUS_V2.5.200.sql": {
+      "bytes": 4168,
+      "sha256": "b4ce993d1a44d488f8bde02b0f7fa09abbcd961accb1dd67e0095c778ec057f6"
+    },
+    "RELEASE_NOTES_V2.5.200_AR.md": {
+      "bytes": 4408,
+      "sha256": "9a128a76acfbbea36c0628a05a0721921a7384d10ad6e500ea6dbd2b36ac425e"
+    },
+    "USER_ONLINE_TEST_V2.5.200_AR.md": {
+      "bytes": 3856,
+      "sha256": "48d8599a6024e1944a0d062f996282849d14272cb066b94a8d8c3c6d49dd19a7"
+    },
+    "Tower_App_V2.5.200-SOURCE.zip": {
+      "bytes": 17264343,
+      "sha256": "d50b26f3b803060ff3f7eae438e9ed44d998889a83e38efa4f40373c0be5f1ee"
+    }
+  },
+  "localPassCount": 82,
+  "knownStaleTest": "settlement_244_model: removed explanatory sentence expected; same failure on V2.5.198; not counted as PASS"
+}
