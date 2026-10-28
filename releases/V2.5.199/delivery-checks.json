@@ -1,0 +1,53 @@
+{
+  "version": "V2.5.199",
+  "runtimeFileCount": 5,
+  "sourceFileCount": 747,
+  "baselineSourcePathsPreserved": true,
+  "oldSqlTestsQaUnchanged": true,
+  "crc": "PASS",
+  "rootPublicIdentical": true,
+  "newSql": "SQL248_PERSONAL_UI_PREFERENCES_V2.5.199.sql",
+  "sqlExecutedOnline": false,
+  "deployed": false,
+  "uiTestsExecuted": false,
+  "onlineTestsExecuted": false,
+  "tests": {
+    "personal-worker-results.json": 4,
+    "personal-sql-results.json": 6,
+    "updater-package-results.json": 7,
+    "presentation-model-results.json": 6,
+    "guard-summary-regression.json": 4,
+    "guard-page-regression.json": 9,
+    "favorites-regression.json": 12,
+    "settlement-worker-regression.json": 5,
+    "preview-regression.json": 8
+  },
+  "files": {
+    "SQL248_PERSONAL_UI_PREFERENCES_V2.5.199.sql": {
+      "bytes": 2443,
+      "sha256": "c277c5f738507d1e65fbc9ff4f1f228e9404f3093a348bda557d622c803e52ab"
+    },
+    "RELEASE_NOTES_V2.5.199_AR.md": {
+      "bytes": 3100,
+      "sha256": "217225a2aa5312f086723cd232557565c374a209b1c2a296c9bbd39928314233"
+    },
+    "VALIDATION_V2.5.199_AR.md": {
+      "bytes": 1990,
+      "sha256": "de775ad36fb2ae571a7ae58196268606b0f21ede7a75683024c9986f14c7b1df"
+    },
+    "USER_ONLINE_TEST_V2.5.199_AR.md": {
+      "bytes": 3475,
+      "sha256": "89c9e27f182afcc2cbef1ebaf8dd96f6c1ebb84e8d556247ae3d64eb72902534"
+    },
+    "Tower_App_V2.5.199-SOURCE.zip": {
+      "bytes": 17250996,
+      "sha256": "c965804b9e1d94e15207dbcbcaedbaf92a28e27cdce961413ba7c5eca6fd0caa"
+    },
+    "Tower_App_V2.5.199.zip": {
+      "bytes": 402141,
+      "sha256": "6d0564b5972ad458516a5ce0d8cc46c39c968de0716f4491db91156c34f1a494"
+    }
+  },
+  "localPassCount": 61,
+  "knownStaleTest": "settlement_244_model: removed explanatory sentence expected; same failure on V2.5.198; not counted as PASS"
+}
