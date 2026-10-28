@@ -1,0 +1,55 @@
+{
+  "version": "V3.2.0",
+  "baselineVersion": "V3.1.0",
+  "runtimeFileCount": 5,
+  "sourceFileCount": 845,
+  "baselineSourcePathsPreserved": true,
+  "oldSqlTestsQaUnchanged": true,
+  "crc": "PASS",
+  "rootPublicIdentical": true,
+  "newSql": "SQL252_IDENTITY_WORKSPACE_V3.2.0.sql",
+  "sqlExecutedOnline": false,
+  "deployed": false,
+  "uiTestsExecuted": false,
+  "onlineTestsExecuted": false,
+  "tests": {
+    "admin-workspace-model-results.json": 7,
+    "scope-preservation-results.json": 4,
+    "surface-model-results.json": 6,
+    "branding-pending-worker-results.json": 6,
+    "brand-studio-model-results.json": 10,
+    "pending-model-results.json": 7,
+    "identity-sql-results.json": 7,
+    "pending-observer-model-results.json": 5,
+    "header-model-results.json": 5,
+    "unit-dues-export-model-results.json": 6,
+    "updater-package-results.json": 7
+  },
+  "files": {
+    "USER_ONLINE_TEST_V3.2.0_AR.md": {
+      "bytes": 7304,
+      "sha256": "c00f7db31649d25b245d55998c191ac0b372e2e25e1cae2e91601a445c13edd1"
+    },
+    "Tower_App_V3.2.0.zip": {
+      "bytes": 418854,
+      "sha256": "ffa44c1ed162c7c095cbbcfe101ab94a9861ebc9b30a85d9d3089b2daa2a936e"
+    },
+    "Tower_App_V3.2.0-SOURCE.zip": {
+      "bytes": 17507094,
+      "sha256": "7a3502436f7e739306dd1775b6f5170217ad7a07789dea608de5e3d1fea03920"
+    },
+    "SQL252_IDENTITY_WORKSPACE_V3.2.0.sql": {
+      "bytes": 2429,
+      "sha256": "cb1dd2ae193ec9d6ae6260344b39f7367222a3fafef35bc4d77b38bf92ce4b5a"
+    },
+    "VALIDATION_V3.2.0_AR.md": {
+      "bytes": 2705,
+      "sha256": "415f56557fcf30c88517d8f0802e031cd81c610b0aa0969a93fba574ac787fce"
+    },
+    "RELEASE_NOTES_V3.2.0_AR.md": {
+      "bytes": 5165,
+      "sha256": "791b089b63ba572a381a702fc0e0a238cd096144746ac5fa6a6de77c60c0dec1"
+    }
+  },
+  "localPassCount": 70
+}
