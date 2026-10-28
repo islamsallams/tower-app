@@ -31,20 +31,20 @@
   },
   "files": {
     "Tower_App_V3.0.0.zip": {
-      "bytes": 408791,
-      "sha256": "0d9a9de4de457b45aa96734410e10247be364618d0ca2e40aa37fadd3bfca7d7"
+      "bytes": 408950,
+      "sha256": "8886adc7c7e22d0318cff38b797588d0db7f385f658cf4e033063132c6999a77"
     },
     "RELEASE_NOTES_V3.0.0_AR.md": {
-      "bytes": 6019,
-      "sha256": "7608453ee63880a085499faef7396ce59adca905211096e414b0ef1caf49fdd8"
+      "bytes": 6254,
+      "sha256": "1497d4c8d17cd503321359c125e49b508155924b594db5640dc59667b49deb16"
     },
     "SQL251_BRANDING_AND_PENDING_ACTIONS_V3.0.0.sql": {
       "bytes": 7356,
       "sha256": "0f6fafb7e1bad8f15f203862f05bdf57b9cef839a514b2eb753ee3ae69329851"
     },
     "Tower_App_V3.0.0-SOURCE.zip": {
-      "bytes": 17361986,
-      "sha256": "09ca8daa65470bea78042e7f473633165d865012b7cec32f1edf824f9617d28b"
+      "bytes": 17362485,
+      "sha256": "16c2e87405f4813f6349b4f2ebe80d2e9a5cef829daf4d20c6510ea58f91425b"
     },
     "USER_ONLINE_TEST_V3.0.0_AR.md": {
       "bytes": 5356,
