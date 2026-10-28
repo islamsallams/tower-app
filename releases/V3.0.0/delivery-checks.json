@@ -1,0 +1,59 @@
+{
+  "version": "V3.0.0",
+  "baselineVersion": "V2.5.200",
+  "runtimeFileCount": 5,
+  "sourceFileCount": 795,
+  "baselineSourcePathsPreserved": true,
+  "oldSqlTestsQaUnchanged": true,
+  "crc": "PASS",
+  "rootPublicIdentical": true,
+  "newSql": "SQL251_BRANDING_AND_PENDING_ACTIONS_V3.0.0.sql",
+  "sqlExecutedOnline": false,
+  "deployed": false,
+  "uiTestsExecuted": false,
+  "onlineTestsExecuted": false,
+  "tests": {
+    "header-regression.json": 5,
+    "brand-layout-model-results.json": 4,
+    "personal-worker-regression.json": 4,
+    "guard-page-regression.json": 9,
+    "branding-pending-sql-results.json": 8,
+    "favorites-regression.json": 12,
+    "branding-pending-worker-results.json": 6,
+    "settlement-preview-regression.json": 8,
+    "guard-summary-worker-regression.json": 4,
+    "pending-model-results.json": 7,
+    "dues-regression.json": 11,
+    "surface-regression.json": 6,
+    "settlement-worker-regression.json": 5,
+    "unit-dues-export-model-results.json": 6,
+    "updater-package-results.json": 7
+  },
+  "files": {
+    "Tower_App_V3.0.0.zip": {
+      "bytes": 408791,
+      "sha256": "0d9a9de4de457b45aa96734410e10247be364618d0ca2e40aa37fadd3bfca7d7"
+    },
+    "RELEASE_NOTES_V3.0.0_AR.md": {
+      "bytes": 6019,
+      "sha256": "7608453ee63880a085499faef7396ce59adca905211096e414b0ef1caf49fdd8"
+    },
+    "SQL251_BRANDING_AND_PENDING_ACTIONS_V3.0.0.sql": {
+      "bytes": 7356,
+      "sha256": "0f6fafb7e1bad8f15f203862f05bdf57b9cef839a514b2eb753ee3ae69329851"
+    },
+    "Tower_App_V3.0.0-SOURCE.zip": {
+      "bytes": 17361986,
+      "sha256": "09ca8daa65470bea78042e7f473633165d865012b7cec32f1edf824f9617d28b"
+    },
+    "USER_ONLINE_TEST_V3.0.0_AR.md": {
+      "bytes": 5356,
+      "sha256": "9fe2a624465f8db16c87050df8fc17c947167b1321ee0febc2ee445a5b70b9c1"
+    },
+    "VALIDATION_V3.0.0_AR.md": {
+      "bytes": 2302,
+      "sha256": "b38085cf814b027f9cae402c8f709373af37f17881ed42230231de12586b5236"
+    }
+  },
+  "localPassCount": 102
+}
