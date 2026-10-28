@@ -1,0 +1,58 @@
+{
+  "version": "V2.5.197",
+  "runtimeFileCount": 5,
+  "sourceFileCount": 716,
+  "baselineSourceFileCount": 703,
+  "allBaselinePathsPreserved": true,
+  "oldSqlAndQaAndTestsUnchanged": true,
+  "newSql": null,
+  "sqlRequired": false,
+  "crc": "PASS",
+  "runtimeSourceIdentical": true,
+  "rootPublicIdentical": true,
+  "updaterLocalPreparationChecks": 9,
+  "updaterLocalPreparation": "PASS",
+  "tests": {
+    "newGuardPolish": 11,
+    "guardPageRegression": 9,
+    "guardSummaryWorker": 4,
+    "previewRegression": 8,
+    "settlementRegression": 13,
+    "workerContracts": 5,
+    "updater": 9
+  },
+  "uiTestingOwner": "USER_ALWAYS",
+  "uiTestsExecuted": false,
+  "onlineTestsExecuted": false,
+  "liveFinancialWritesExecuted": false,
+  "deployed": false,
+  "runtimeHashes": {
+    "app.js": "693f2a171a7381693e6c3df276edc8ba1de17ed9bb5460df0fc1eb50f7b212ae",
+    "index.html": "6f6850e5f0e69e77db6261eedf8a150272e009c1ed76b78579584be5ec513725",
+    "styles.css": "815501a4a407f2a2c6c4d6822a454c4e6a3ae4a567b81c77d3e8e16ff79548b2",
+    "worker.js": "2a7b2c3096fffe64ea283addbd66d40503f595fcd151dd75ffd38f3a7dd6c33e",
+    "wrangler.toml": "11580256a1830cf40b880645d3397939af1ffefb52fcc04af000a434274969f9"
+  },
+  "files": {
+    "RELEASE_NOTES_V2.5.197_AR.md": {
+      "bytes": 3668,
+      "sha256": "e271c8d7db2d6d7a115c1e73090da871f2025e3ea309ad558d99060e312cce38"
+    },
+    "Tower_App_V2.5.197-SOURCE.zip": {
+      "bytes": 17176624,
+      "sha256": "06c6502410577a51f3024d333c2064be21cf0b66704906dee2a347c5f498f028"
+    },
+    "VALIDATION_V2.5.197_AR.md": {
+      "bytes": 3121,
+      "sha256": "b2b6a5ee4803bfa1df2f0434a7c42ff1a90740b7a4d9b2e7b3ae2bce41d66f46"
+    },
+    "USER_ONLINE_TEST_V2.5.197_AR.md": {
+      "bytes": 3929,
+      "sha256": "a33260f1ec25c206f5bf4d739f2a8cb703a607cc2837eb8f5fb08072f793e412"
+    },
+    "Tower_App_V2.5.197.zip": {
+      "bytes": 398294,
+      "sha256": "aff5109e61fceb0b7f4321ab44e89feea410dee6b64abbf2d4cc60c11aa4cf2b"
+    }
+  }
+}
