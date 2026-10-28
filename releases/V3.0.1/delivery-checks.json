@@ -1,0 +1,48 @@
+{
+  "version": "V3.0.1",
+  "baselineVersion": "V3.0.0",
+  "runtimeFileCount": 5,
+  "sourceFileCount": 810,
+  "baselineSourcePathsPreserved": true,
+  "oldSqlTestsQaUnchanged": true,
+  "crc": "PASS",
+  "rootPublicIdentical": true,
+  "newSql": null,
+  "sqlExecutedOnline": false,
+  "deployed": false,
+  "uiTestsExecuted": false,
+  "onlineTestsExecuted": false,
+  "tests": {
+    "dues-export-regression.json": 6,
+    "header-regression.json": 5,
+    "brand-layout-regression.json": 4,
+    "pending-regression.json": 7,
+    "pending-observer-model-results.json": 5,
+    "surface-regression.json": 6,
+    "worker-regression.json": 6,
+    "updater-package-results.json": 7
+  },
+  "files": {
+    "USER_ONLINE_TEST_V3.0.1_AR.md": {
+      "bytes": 2035,
+      "sha256": "8f71e1dfef947392896c537f7ee007e2d73e35d7fe79fe2d982404d9157581bc"
+    },
+    "Tower_App_V3.0.1-SOURCE.zip": {
+      "bytes": 17397486,
+      "sha256": "249939fdf7de25c782281a42bfef606aae087f25dcd26bca35120a4f8805544d"
+    },
+    "VALIDATION_V3.0.1_AR.md": {
+      "bytes": 1453,
+      "sha256": "1994b14155d15adea0401228a71b711301aa3c8a65d4b7286f878510bff498ce"
+    },
+    "RELEASE_NOTES_V3.0.1_AR.md": {
+      "bytes": 2225,
+      "sha256": "1eb8678f9c2ae345e3dd09ca5ecc9356505022475140beab2a0a3be43b65d6f0"
+    },
+    "Tower_App_V3.0.1.zip": {
+      "bytes": 409023,
+      "sha256": "64d6c42ebe270bc8679a9b2dcc4bfb24314ece56ef7ab2e8869749a6dfc3859d"
+    }
+  },
+  "localPassCount": 46
+}
