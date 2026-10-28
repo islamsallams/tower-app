@@ -1,0 +1,65 @@
+{
+  "version": "V2.5.196",
+  "runtimeFileCount": 5,
+  "sourceFileCount": 703,
+  "baselineSourceFileCount": 684,
+  "allBaselinePathsPreserved": true,
+  "oldSqlAndQaAndTestsUnchanged": true,
+  "newSql": "SQL247_GUARD_TRIP_READ_ONLY_SUMMARY_V2.5.196.sql",
+  "sqlRequired": true,
+  "standaloneSqlMatchesSource": true,
+  "crc": "PASS",
+  "runtimeSourceIdentical": true,
+  "rootPublicIdentical": true,
+  "updaterLocalPreparationChecks": 9,
+  "updaterLocalPreparation": "PASS",
+  "tests": {
+    "newGuardSQL": 10,
+    "newGuardModel": 9,
+    "newGuardWorker": 4,
+    "guardNotesRegression": 9,
+    "previewRegression": 8,
+    "settlementRegression": 13,
+    "residentOverviewRegression": 8,
+    "workerContracts": 5,
+    "updater": 9
+  },
+  "uiTestingOwner": "USER_ALWAYS",
+  "uiTestsExecuted": false,
+  "onlineTestsExecuted": false,
+  "liveFinancialWritesExecuted": false,
+  "deployed": false,
+  "runtimeHashes": {
+    "app.js": "10b2908187729a652287da3c15d7469f6c0ad3251c3c3422c3939f801b2635f3",
+    "index.html": "70e9b6de58a7836ab1be87446db8827142de37ec4d05938939741cf780d22f11",
+    "styles.css": "def2d12a4910b1123a308bc61986e6d3c5cf46c05f756525a7e32a76eaf77b11",
+    "worker.js": "10d893dfa2d71a2f2c67842e65b8e114eaf07d3e4b092d4e10d157fb8eab8683",
+    "wrangler.toml": "11580256a1830cf40b880645d3397939af1ffefb52fcc04af000a434274969f9"
+  },
+  "files": {
+    "USER_ONLINE_TEST_V2.5.196_AR.md": {
+      "bytes": 4869,
+      "sha256": "72b9447b55c6140f4e86b65ab5af6ccffee5f8502eb42e2479bf2debff56d339"
+    },
+    "Tower_App_V2.5.196.zip": {
+      "bytes": 396833,
+      "sha256": "939872c505b0eace78f0ed54cc1eacaf91445be50b93206c1a0831b13792bc57"
+    },
+    "Tower_App_V2.5.196-SOURCE.zip": {
+      "bytes": 17142089,
+      "sha256": "49535e88826689f4dacddcf43c678301d42a8d1e0cdb87ffc72528469e1a0414"
+    },
+    "SQL247_GUARD_TRIP_READ_ONLY_SUMMARY_V2.5.196.sql": {
+      "bytes": 2263,
+      "sha256": "76e6582c09d688cbf8fedeef25398b10058b0403024b2d623dd54018586b2209"
+    },
+    "VALIDATION_V2.5.196_AR.md": {
+      "bytes": 3468,
+      "sha256": "7226106ef6bbb80a0f71fcb577a28e1f9b18e4722b883a1c6147cc2edd4db206"
+    },
+    "RELEASE_NOTES_V2.5.196_AR.md": {
+      "bytes": 4139,
+      "sha256": "66a48e89ca1da65741cbcd3364cd5ee6bdaec78fc682422ad137b83a9d672074"
+    }
+  }
+}
