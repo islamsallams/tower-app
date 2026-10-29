@@ -1,0 +1,54 @@
+{
+  "version": "V3.8.2",
+  "baselineVersion": "V3.8.1",
+  "runtimeFileCount": 5,
+  "sourceFileCount": 994,
+  "baselineSourcePathsPreserved": true,
+  "oldSqlTestsQaUnchanged": true,
+  "crc": "PASS",
+  "rootPublicIdentical": true,
+  "newSql": [],
+  "publicTableGrantsAdded": false,
+  "reportsAndPdfUnchanged": true,
+  "reportPdfFunctionCountVerified": 86,
+  "sqlExecutedOnline": false,
+  "cloudflareDeployed": false,
+  "uiTestsExecuted": false,
+  "onlineTestsExecuted": false,
+  "actualRestoreImplemented": true,
+  "restoreImplementationChanged": false,
+  "restoreTestedOnIndependentPostgresThisRelease": false,
+  "productionDatabaseRestoreTested": false,
+  "actualResetEnabled": false,
+  "encryptionPreserved": true,
+  "runtimeDownloadMode": "NATIVE_BROWSER_LINK",
+  "runtimeDownloadUsesWorkerProxy": false,
+  "tests": {
+    "model-results.json": 5,
+    "preservation-results.json": 6,
+    "updater-package-results.json": 7
+  },
+  "files": {
+    "USER_ONLINE_TEST_V3.8.2_AR.md": {
+      "bytes": 2425,
+      "sha256": "1bf4ad3aff5068050333a4a8d93441c4c067110ef0fa05bc105e611b5d8e0f64"
+    },
+    "RELEASE_NOTES_V3.8.2_AR.md": {
+      "bytes": 2642,
+      "sha256": "be2fb8c8702e343685c6af1c41d58a2094c28917f2cf0264ffbd200d6b9e12a9"
+    },
+    "VALIDATION_V3.8.2_AR.md": {
+      "bytes": 2775,
+      "sha256": "188cdba0af7a7ef74fe8e7f925bfe02487cdca03108c706566f988f0a040cc07"
+    },
+    "Tower_App_V3.8.2-SOURCE.zip": {
+      "bytes": 18073395,
+      "sha256": "f07bb08552b5797e7494df777bba5bc96db19907474358bb0e6c164e7f667c0f"
+    },
+    "Tower_App_V3.8.2.zip": {
+      "bytes": 464111,
+      "sha256": "bdc0e640f3057c7c4e3176c961aeba48b19834126585cdad317340066c46d5be"
+    }
+  },
+  "localPassCount": 18
+}
