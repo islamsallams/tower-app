@@ -1,0 +1,58 @@
+{
+  "version": "V3.6.0",
+  "baselineVersion": "V3.5.0",
+  "runtimeFileCount": 5,
+  "sourceFileCount": 933,
+  "baselineSourcePathsPreserved": true,
+  "oldSqlTestsQaUnchanged": true,
+  "crc": "PASS",
+  "rootPublicIdentical": true,
+  "newSql": [
+    "SQL264_UNIT_TYPE_COLORS_V3.6.0.sql"
+  ],
+  "reportsAndPdfUnchanged": true,
+  "reportPdfFunctionCountVerified": 86,
+  "sqlExecutedOnline": false,
+  "deployed": false,
+  "uiTestsExecuted": false,
+  "onlineTestsExecuted": false,
+  "actualRestoreImplemented": false,
+  "actualResetEnabled": false,
+  "tests": {
+    "sql-results.json": 6,
+    "model-results.json": 10,
+    "regression-184-model-results.json": 11,
+    "worker-results.json": 4,
+    "preservation-results.json": 3,
+    "regression-350-sql-results.json": 10,
+    "regression-184-worker-results.json": 6,
+    "updater-package-results.json": 7
+  },
+  "files": {
+    "USER_ONLINE_TEST_V3.6.0_AR.md": {
+      "bytes": 5362,
+      "sha256": "a5ad085e90cc5d88fe8eb4ecee3d66e678d52268b3920219efd81312ffe93979"
+    },
+    "RELEASE_NOTES_V3.6.0_AR.md": {
+      "bytes": 4714,
+      "sha256": "252a6b363e7fd1933f76b9a8fcb1c36aca38d87138bc469e62afa3586cb53686"
+    },
+    "Tower_App_V3.6.0.zip": {
+      "bytes": 456684,
+      "sha256": "30a6fe8e3a87ae23fa77a2d1c1dc8e62472124f461fd3bd56d32ffe8ed0ab95f"
+    },
+    "VALIDATION_V3.6.0_AR.md": {
+      "bytes": 2700,
+      "sha256": "f0a60e8d45ab6df5bab9bf4003ddd9ae0b174ac8985527f24799e752c3c936a9"
+    },
+    "Tower_App_V3.6.0-SOURCE.zip": {
+      "bytes": 17826571,
+      "sha256": "ce8fdbce35de086022d297eb98c584713f7a7d394b9fcbb3c6ce9acc679916a4"
+    },
+    "SQL264_UNIT_TYPE_COLORS_V3.6.0.sql": {
+      "bytes": 2527,
+      "sha256": "deb557222077c74d2b489a140279f2a5a8988827f703becdb02411ef38bf720c"
+    }
+  },
+  "localPassCount": 57
+}
