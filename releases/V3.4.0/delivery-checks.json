@@ -1,0 +1,65 @@
+{
+  "version": "V3.4.0",
+  "baselineVersion": "V3.3.0",
+  "runtimeFileCount": 5,
+  "sourceFileCount": 897,
+  "baselineSourcePathsPreserved": true,
+  "oldSqlTestsQaUnchanged": true,
+  "crc": "PASS",
+  "rootPublicIdentical": true,
+  "newSql": [
+    "SQL256_IDENTITY_SPACING_V3.4.0.sql",
+    "SQL257_NOTIFICATION_TRIP_READS_V3.4.0.sql"
+  ],
+  "sqlExecutedOnline": false,
+  "deployed": false,
+  "uiTestsExecuted": false,
+  "onlineTestsExecuted": false,
+  "tests": {
+    "admin-workspace-model-results.json": 10,
+    "notification-theme-model-results.json": 9,
+    "scope-preservation-results.json": 4,
+    "branding-login-model-results.json": 4,
+    "surface-model-results.json": 6,
+    "branding-pending-worker-results.json": 13,
+    "brand-studio-model-results.json": 11,
+    "pending-model-results.json": 7,
+    "trip-notices-sql-results.json": 5,
+    "notification-reset-model-results.json": 6,
+    "pending-observer-model-results.json": 5,
+    "header-model-results.json": 5,
+    "identity-spacing-sql-results.json": 7,
+    "updater-package-results.json": 7
+  },
+  "files": {
+    "Tower_App_V3.4.0.zip": {
+      "bytes": 431615,
+      "sha256": "64624d2d5994f6a480f1c2f51c7eb8376210fe36410c6f299076bb37db34d5ed"
+    },
+    "SQL256_IDENTITY_SPACING_V3.4.0.sql": {
+      "bytes": 3880,
+      "sha256": "0f74fc4d51d635c74b65b3f9bc9a7abe1ccb8d94b0a6950f9748c9ef6a1cd775"
+    },
+    "USER_ONLINE_TEST_V3.4.0_AR.md": {
+      "bytes": 6740,
+      "sha256": "2e90bec699bb99d1e1bce8cf397310e739521f3ffe7818961c60e71712aa013c"
+    },
+    "VALIDATION_V3.4.0_AR.md": {
+      "bytes": 3970,
+      "sha256": "2af3e8549e3a8748ec361c3aec7c979b348046ed8458c55c86706445609442df"
+    },
+    "Tower_App_V3.4.0-SOURCE.zip": {
+      "bytes": 17660223,
+      "sha256": "a087835da614f22de3998bb1351f1c888e3bde2260614673e09d3d5f1940487d"
+    },
+    "SQL257_NOTIFICATION_TRIP_READS_V3.4.0.sql": {
+      "bytes": 3087,
+      "sha256": "a1e8525763f39d80df1afe43499917125462fe5541f4c7f913870f52049ba77d"
+    },
+    "RELEASE_NOTES_V3.4.0_AR.md": {
+      "bytes": 6111,
+      "sha256": "84089ac778a11d79d604491959750f16b2f9da2596ab3d3a72f4c4c10674a5ad"
+    }
+  },
+  "localPassCount": 99
+}
