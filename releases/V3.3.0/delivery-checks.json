@@ -1,0 +1,64 @@
+{
+  "version": "V3.3.0",
+  "baselineVersion": "V3.2.0",
+  "runtimeFileCount": 5,
+  "sourceFileCount": 872,
+  "baselineSourcePathsPreserved": true,
+  "oldSqlTestsQaUnchanged": true,
+  "crc": "PASS",
+  "rootPublicIdentical": true,
+  "newSql": [
+    "SQL253_IDENTITY_GEOMETRY_V3.3.0.sql",
+    "SQL255_RESET_READ_ONLY_PREVIEW_V3.3.0.sql"
+  ],
+  "sqlExecutedOnline": false,
+  "deployed": false,
+  "uiTestsExecuted": false,
+  "onlineTestsExecuted": false,
+  "tests": {
+    "admin-workspace-model-results.json": 10,
+    "scope-preservation-results.json": 4,
+    "surface-model-results.json": 6,
+    "branding-pending-worker-results.json": 10,
+    "brand-studio-model-results.json": 11,
+    "reset-preview-sql-results.json": 5,
+    "pending-model-results.json": 7,
+    "notification-reset-model-results.json": 6,
+    "pending-observer-model-results.json": 5,
+    "identity-geometry-sql-results.json": 6,
+    "header-model-results.json": 5,
+    "unit-dues-export-model-results.json": 6,
+    "updater-package-results.json": 7
+  },
+  "files": {
+    "RELEASE_NOTES_V3.3.0_AR.md": {
+      "bytes": 6634,
+      "sha256": "5b877fb76256b04fc4ba152f0c815eed27fccc37bd438f216cb4b5d01e8a51d8"
+    },
+    "Tower_App_V3.3.0-SOURCE.zip": {
+      "bytes": 17589803,
+      "sha256": "9fd5b563d4133b13f76b6d5c645dd2f6085423aabd2c15559823b1369ed06dab"
+    },
+    "SQL255_RESET_READ_ONLY_PREVIEW_V3.3.0.sql": {
+      "bytes": 3399,
+      "sha256": "07e8cf51b93726ab2d53452848da754960f2810cd37d176f7ab212f00c29b350"
+    },
+    "SQL253_IDENTITY_GEOMETRY_V3.3.0.sql": {
+      "bytes": 2544,
+      "sha256": "27c466157155a1b6bc5e95e5af88b116716e0d1256b7a0dedefada7b3992bd12"
+    },
+    "USER_ONLINE_TEST_V3.3.0_AR.md": {
+      "bytes": 7620,
+      "sha256": "311a152b73bedcf68a8fa3037f2595159635e273cf1aa629d7ab273f7df6681b"
+    },
+    "VALIDATION_V3.3.0_AR.md": {
+      "bytes": 2767,
+      "sha256": "c1f8d275c82af3ada1f4565c45523821f2ebb56dd85127c8e4e42336b4a22d39"
+    },
+    "Tower_App_V3.3.0.zip": {
+      "bytes": 426580,
+      "sha256": "6556506a35f67091a78b80579b9802c7a9dd59073c0e59714f6a2347c5c9ee4a"
+    }
+  },
+  "localPassCount": 88
+}
