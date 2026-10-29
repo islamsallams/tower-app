@@ -1,0 +1,417 @@
+{
+  "summary": {
+    "scope": "LIVE_TASK_START_GUARD",
+    "version": "3.7.0",
+    "serviceId": "47652726-c9fb-4430-8162-55c1cb626671",
+    "checks": 39,
+    "passed": 39,
+    "failed": 0,
+    "restored": true,
+    "newPayments": false,
+    "newDues": false,
+    "externalMessagesSentByAssistant": false,
+    "note": "Existing dedicated QA task reused; workflow revision/audit/internal task events reflect tests.",
+    "legacyEndpointTested": true,
+    "specificGateMessagesVerified": true
+  },
+  "checks": [
+    {
+      "check": "Setup date-only",
+      "status": "PASS",
+      "evidence": {
+        "date": "2099-01-01",
+        "threshold": 20,
+        "collected": 100,
+        "dues": 500
+      }
+    },
+    {
+      "check": "Rejected write leaves workflow and revision unchanged: ADMIN READY",
+      "status": "PASS",
+      "evidence": {
+        "beforeStage": "COLLECT_FUNDS",
+        "afterStage": "COLLECT_FUNDS",
+        "beforeRevision": 12,
+        "afterRevision": 12
+      }
+    },
+    {
+      "check": "ADMIN blocks READY date-only",
+      "status": "PASS",
+      "evidence": {
+        "error": "موعد بدء التنفيذ لسه ماجاش؛ راجع تاريخ التنفيذ قبل تغيير المرحلة.",
+        "date": "2099-01-01",
+        "threshold": 20,
+        "expectedGate": "date",
+        "state": "COLLECT_FUNDS"
+      }
+    },
+    {
+      "check": "Rejected write leaves workflow and revision unchanged: ADMIN IN_PROGRESS",
+      "status": "PASS",
+      "evidence": {
+        "beforeStage": "COLLECT_FUNDS",
+        "afterStage": "COLLECT_FUNDS",
+        "beforeRevision": 12,
+        "afterRevision": 12
+      }
+    },
+    {
+      "check": "ADMIN blocks IN_PROGRESS date-only",
+      "status": "PASS",
+      "evidence": {
+        "error": "موعد بدء التنفيذ لسه ماجاش؛ راجع تاريخ التنفيذ قبل تغيير المرحلة.",
+        "date": "2099-01-01",
+        "threshold": 20,
+        "expectedGate": "date",
+        "state": "COLLECT_FUNDS"
+      }
+    },
+    {
+      "check": "Rejected write leaves workflow and revision unchanged: UNION READY",
+      "status": "PASS",
+      "evidence": {
+        "beforeStage": "COLLECT_FUNDS",
+        "afterStage": "COLLECT_FUNDS",
+        "beforeRevision": 12,
+        "afterRevision": 12
+      }
+    },
+    {
+      "check": "UNION blocks READY date-only",
+      "status": "PASS",
+      "evidence": {
+        "error": "موعد بدء التنفيذ لسه ماجاش؛ راجع تاريخ التنفيذ قبل تغيير المرحلة.",
+        "date": "2099-01-01",
+        "threshold": 20,
+        "expectedGate": "date",
+        "state": "COLLECT_FUNDS"
+      }
+    },
+    {
+      "check": "Rejected write leaves workflow and revision unchanged: UNION IN_PROGRESS",
+      "status": "PASS",
+      "evidence": {
+        "beforeStage": "COLLECT_FUNDS",
+        "afterStage": "COLLECT_FUNDS",
+        "beforeRevision": 12,
+        "afterRevision": 12
+      }
+    },
+    {
+      "check": "UNION blocks IN_PROGRESS date-only",
+      "status": "PASS",
+      "evidence": {
+        "error": "موعد بدء التنفيذ لسه ماجاش؛ راجع تاريخ التنفيذ قبل تغيير المرحلة.",
+        "date": "2099-01-01",
+        "threshold": 20,
+        "expectedGate": "date",
+        "state": "COLLECT_FUNDS"
+      }
+    },
+    {
+      "check": "Setup money-only",
+      "status": "PASS",
+      "evidence": {
+        "date": "2026-10-26",
+        "threshold": 21,
+        "collected": 100,
+        "dues": 500
+      }
+    },
+    {
+      "check": "Rejected write leaves workflow and revision unchanged: ADMIN READY",
+      "status": "PASS",
+      "evidence": {
+        "beforeStage": "COLLECT_FUNDS",
+        "afterStage": "COLLECT_FUNDS",
+        "beforeRevision": 13,
+        "afterRevision": 13
+      }
+    },
+    {
+      "check": "ADMIN blocks READY money-only",
+      "status": "PASS",
+      "evidence": {
+        "error": "التحصيل أقل من المطلوب لبدء التنفيذ؛ راجع النسبة أو المبلغ المحدد.",
+        "date": "2026-10-26",
+        "threshold": 21,
+        "expectedGate": "money",
+        "state": "COLLECT_FUNDS"
+      }
+    },
+    {
+      "check": "Rejected write leaves workflow and revision unchanged: ADMIN IN_PROGRESS",
+      "status": "PASS",
+      "evidence": {
+        "beforeStage": "COLLECT_FUNDS",
+        "afterStage": "COLLECT_FUNDS",
+        "beforeRevision": 13,
+        "afterRevision": 13
+      }
+    },
+    {
+      "check": "ADMIN blocks IN_PROGRESS money-only",
+      "status": "PASS",
+      "evidence": {
+        "error": "التحصيل أقل من المطلوب لبدء التنفيذ؛ راجع النسبة أو المبلغ المحدد.",
+        "date": "2026-10-26",
+        "threshold": 21,
+        "expectedGate": "money",
+        "state": "COLLECT_FUNDS"
+      }
+    },
+    {
+      "check": "Rejected write leaves workflow and revision unchanged: UNION READY",
+      "status": "PASS",
+      "evidence": {
+        "beforeStage": "COLLECT_FUNDS",
+        "afterStage": "COLLECT_FUNDS",
+        "beforeRevision": 13,
+        "afterRevision": 13
+      }
+    },
+    {
+      "check": "UNION blocks READY money-only",
+      "status": "PASS",
+      "evidence": {
+        "error": "التحصيل أقل من المطلوب لبدء التنفيذ؛ راجع النسبة أو المبلغ المحدد.",
+        "date": "2026-10-26",
+        "threshold": 21,
+        "expectedGate": "money",
+        "state": "COLLECT_FUNDS"
+      }
+    },
+    {
+      "check": "Rejected write leaves workflow and revision unchanged: UNION IN_PROGRESS",
+      "status": "PASS",
+      "evidence": {
+        "beforeStage": "COLLECT_FUNDS",
+        "afterStage": "COLLECT_FUNDS",
+        "beforeRevision": 13,
+        "afterRevision": 13
+      }
+    },
+    {
+      "check": "UNION blocks IN_PROGRESS money-only",
+      "status": "PASS",
+      "evidence": {
+        "error": "التحصيل أقل من المطلوب لبدء التنفيذ؛ راجع النسبة أو المبلغ المحدد.",
+        "date": "2026-10-26",
+        "threshold": 21,
+        "expectedGate": "money",
+        "state": "COLLECT_FUNDS"
+      }
+    },
+    {
+      "check": "Setup date-and-money",
+      "status": "PASS",
+      "evidence": {
+        "date": "2099-01-01",
+        "threshold": 21,
+        "collected": 100,
+        "dues": 500
+      }
+    },
+    {
+      "check": "Rejected write leaves workflow and revision unchanged: ADMIN READY",
+      "status": "PASS",
+      "evidence": {
+        "beforeStage": "COLLECT_FUNDS",
+        "afterStage": "COLLECT_FUNDS",
+        "beforeRevision": 14,
+        "afterRevision": 14
+      }
+    },
+    {
+      "check": "ADMIN blocks READY date-and-money",
+      "status": "PASS",
+      "evidence": {
+        "error": "موعد بدء التنفيذ لسه ماجاش؛ راجع تاريخ التنفيذ قبل تغيير المرحلة.",
+        "date": "2099-01-01",
+        "threshold": 21,
+        "expectedGate": "date",
+        "state": "COLLECT_FUNDS"
+      }
+    },
+    {
+      "check": "Rejected write leaves workflow and revision unchanged: ADMIN IN_PROGRESS",
+      "status": "PASS",
+      "evidence": {
+        "beforeStage": "COLLECT_FUNDS",
+        "afterStage": "COLLECT_FUNDS",
+        "beforeRevision": 14,
+        "afterRevision": 14
+      }
+    },
+    {
+      "check": "ADMIN blocks IN_PROGRESS date-and-money",
+      "status": "PASS",
+      "evidence": {
+        "error": "موعد بدء التنفيذ لسه ماجاش؛ راجع تاريخ التنفيذ قبل تغيير المرحلة.",
+        "date": "2099-01-01",
+        "threshold": 21,
+        "expectedGate": "date",
+        "state": "COLLECT_FUNDS"
+      }
+    },
+    {
+      "check": "Rejected write leaves workflow and revision unchanged: UNION READY",
+      "status": "PASS",
+      "evidence": {
+        "beforeStage": "COLLECT_FUNDS",
+        "afterStage": "COLLECT_FUNDS",
+        "beforeRevision": 14,
+        "afterRevision": 14
+      }
+    },
+    {
+      "check": "UNION blocks READY date-and-money",
+      "status": "PASS",
+      "evidence": {
+        "error": "موعد بدء التنفيذ لسه ماجاش؛ راجع تاريخ التنفيذ قبل تغيير المرحلة.",
+        "date": "2099-01-01",
+        "threshold": 21,
+        "expectedGate": "date",
+        "state": "COLLECT_FUNDS"
+      }
+    },
+    {
+      "check": "Rejected write leaves workflow and revision unchanged: UNION IN_PROGRESS",
+      "status": "PASS",
+      "evidence": {
+        "beforeStage": "COLLECT_FUNDS",
+        "afterStage": "COLLECT_FUNDS",
+        "beforeRevision": 14,
+        "afterRevision": 14
+      }
+    },
+    {
+      "check": "UNION blocks IN_PROGRESS date-and-money",
+      "status": "PASS",
+      "evidence": {
+        "error": "موعد بدء التنفيذ لسه ماجاش؛ راجع تاريخ التنفيذ قبل تغيير المرحلة.",
+        "date": "2099-01-01",
+        "threshold": 21,
+        "expectedGate": "date",
+        "state": "COLLECT_FUNDS"
+      }
+    },
+    {
+      "check": "Exact 20 percent setup",
+      "status": "PASS",
+      "evidence": {
+        "collected": 100,
+        "dues": 500
+      }
+    },
+    {
+      "check": "Allows READY once date and exact threshold are met",
+      "status": "PASS",
+      "evidence": {
+        "stage": "READY",
+        "date": "2026-10-26",
+        "threshold": 20,
+        "collected": 100,
+        "dues": 500
+      }
+    },
+    {
+      "check": "Allows IN_PROGRESS once date and exact threshold are met",
+      "status": "PASS",
+      "evidence": {
+        "stage": "IN_PROGRESS",
+        "date": "2026-10-26",
+        "threshold": 20,
+        "collected": 100,
+        "dues": 500
+      }
+    },
+    {
+      "check": "Original workflow settings and financial totals restored",
+      "status": "PASS",
+      "evidence": {
+        "stage": "READY",
+        "executionPercent": 0,
+        "startRule": "DATE_AND_COLLECTION",
+        "executionDate": "2026-10-26",
+        "collectionThreshold": 20,
+        "installmentCount": 3,
+        "firstDueDate": "2026-10-26",
+        "fundContributionProposed": 500,
+        "fundContributionPosted": 500,
+        "collected": 100,
+        "approvedDues": 500,
+        "minimumStartAmount": 0
+      }
+    },
+    {
+      "check": "All subscription balances unchanged",
+      "status": "PASS",
+      "evidence": {
+        "subscriptionCount": 3
+      }
+    },
+    {
+      "check": "Rejection is the specific date guard, not an unrelated error",
+      "status": "PASS",
+      "evidence": {
+        "rejections": 8
+      }
+    },
+    {
+      "check": "Rejection is the specific money guard, not an unrelated error",
+      "status": "PASS",
+      "evidence": {
+        "rejections": 4
+      }
+    },
+    {
+      "check": "Legacy saveTaskWorkflow ADMIN blocks date",
+      "status": "PASS",
+      "evidence": {
+        "error": "موعد بدء التنفيذ لسه ماجاش؛ راجع تاريخ التنفيذ قبل تغيير المرحلة.",
+        "beforeStage": "READY",
+        "afterStage": "READY",
+        "revisionUnchanged": true
+      }
+    },
+    {
+      "check": "Legacy saveTaskWorkflow ADMIN blocks money",
+      "status": "PASS",
+      "evidence": {
+        "error": "التحصيل أقل من المطلوب لبدء التنفيذ؛ راجع النسبة أو المبلغ المحدد.",
+        "beforeStage": "READY",
+        "afterStage": "READY",
+        "revisionUnchanged": true
+      }
+    },
+    {
+      "check": "Legacy saveTaskWorkflow UNION blocks date",
+      "status": "PASS",
+      "evidence": {
+        "error": "موعد بدء التنفيذ لسه ماجاش؛ راجع تاريخ التنفيذ قبل تغيير المرحلة.",
+        "beforeStage": "READY",
+        "afterStage": "READY",
+        "revisionUnchanged": true
+      }
+    },
+    {
+      "check": "Legacy saveTaskWorkflow UNION blocks money",
+      "status": "PASS",
+      "evidence": {
+        "error": "التحصيل أقل من المطلوب لبدء التنفيذ؛ راجع النسبة أو المبلغ المحدد.",
+        "beforeStage": "READY",
+        "afterStage": "READY",
+        "revisionUnchanged": true
+      }
+    },
+    {
+      "check": "Final settings remain at pre-test values",
+      "status": "PASS",
+      "evidence": {
+        "restored": true
+      }
+    }
+  ]
+}
