@@ -1,0 +1,41 @@
+{
+  "version": "Updater V2.3.0",
+  "baselineVersion": "Updater V2.2.1",
+  "files": {
+    "USER_TEST_V2_3_0_AR.md": {
+      "bytes": 3775,
+      "sha256": "f501f67f5f004147817b23f668a8458097f3a06e13209a24bf906ca91d6ccec6"
+    },
+    "Tower_Supabase_Updater_v2.3.0.zip": {
+      "bytes": 434300,
+      "sha256": "6088c4bfc29e41c6e85dda81990cf22ea8510a6b900d3960b2371f430ff7e04a"
+    },
+    "VALIDATION_V2_3_0_AR.md": {
+      "bytes": 1034,
+      "sha256": "49d5eb7fe11525def95b36b5a3fc7346065957db1eb6742f69d72c60ea787380"
+    },
+    "RELEASE_NOTES_V2_3_0_AR.md": {
+      "bytes": 5411,
+      "sha256": "ee9211183fdfffda6be615c793b3824c439caf1dbe2db1ba76b10726eb897e9c"
+    }
+  },
+  "archiveFileCount": 52,
+  "baselineFileCount": 45,
+  "allBaselinePathsPreserved": true,
+  "changedBaselineFiles": [
+    "README_AR.txt",
+    "updater.py"
+  ],
+  "allOtherBaselineBytesIdentical": true,
+  "crc": "PASS",
+  "tests": 74,
+  "preservationChecks": 106,
+  "guiTestsExecuted": false,
+  "liveDeploymentExecuted": false,
+  "liveDatabaseWritesExecuted": false,
+  "exeBundled": false,
+  "launcher": "Tower Supabase Updater.vbs",
+  "settingsCompatibility": "EXISTING_USER_CONFIG_PATH_UNCHANGED",
+  "appReleaseChanged": false,
+  "sqlRequired": false
+}
