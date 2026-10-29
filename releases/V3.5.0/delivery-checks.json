@@ -1,0 +1,74 @@
+{
+  "version": "V3.5.0",
+  "baselineVersion": "V3.4.0",
+  "runtimeFileCount": 5,
+  "sourceFileCount": 916,
+  "baselineSourcePathsPreserved": true,
+  "oldSqlTestsQaUnchanged": true,
+  "crc": "PASS",
+  "rootPublicIdentical": true,
+  "newSql": [
+    "SQL259_NOTIFICATION_HISTORY_V3.5.0.sql",
+    "SQL261_SPLIT_PERSON_NAMES_V3.5.0.sql",
+    "SQL262_UNIT_STATES_V3.5.0.sql",
+    "SQL263_ADMIN_DATA_REVIEW_V3.5.0.sql"
+  ],
+  "sqlExecutedOnline": false,
+  "deployed": false,
+  "uiTestsExecuted": false,
+  "onlineTestsExecuted": false,
+  "actualRestoreImplemented": false,
+  "actualResetEnabled": false,
+  "backupMode": "ENCRYPTED_LOCAL_DOWNLOAD",
+  "tests": {
+    "sql-results.json": 10,
+    "model-results.json": 9,
+    "worker-results.json": 6,
+    "settlement-sql-regression-results.json": 20,
+    "updater-package-results.json": 7,
+    "settlement-worker-regression-results.json": 5
+  },
+  "files": {
+    "USER_ONLINE_TEST_V3.5.0_AR.md": {
+      "bytes": 7618,
+      "sha256": "adaab10e3ebe694204caa2cf150c037dc3992fd52f496397613425926a8abea2"
+    },
+    "SQL263_ADMIN_DATA_REVIEW_V3.5.0.sql": {
+      "bytes": 9058,
+      "sha256": "0870c1c712845be51339c01fec85f5442a7ab8b5190b81942c8629a7a81a9c6b"
+    },
+    "ADMIN_DATA_SCOPE_V3.5.0_AR.md": {
+      "bytes": 5993,
+      "sha256": "bbe6f45318b526e93b4d2a30c9781c1efb45ac416e67b39fa7fa75cfb935f673"
+    },
+    "RELEASE_NOTES_V3.5.0_AR.md": {
+      "bytes": 6203,
+      "sha256": "406f961698ea39b47c6e63284e2ce60f5a2d3b6b9a986a104699da87e5068b16"
+    },
+    "SQL261_SPLIT_PERSON_NAMES_V3.5.0.sql": {
+      "bytes": 6931,
+      "sha256": "96544033b809713895eab60a6842541e2c46476a73b1d29ac762cb1d305a0c89"
+    },
+    "SQL262_UNIT_STATES_V3.5.0.sql": {
+      "bytes": 18257,
+      "sha256": "96589eec7d6366482c9109b6fd58bd6b953f3da1cebb97333d290e3d24d27942"
+    },
+    "VALIDATION_V3.5.0_AR.md": {
+      "bytes": 3350,
+      "sha256": "4236fab22ac7fe2553719c04e52fdd59edb0a928ae6c7fbb4da37a411cfd1aee"
+    },
+    "Tower_App_V3.5.0-SOURCE.zip": {
+      "bytes": 17744263,
+      "sha256": "ad60d1a497d2990372ac283061a3e58b45079765782a14285b7f3dd171cb9558"
+    },
+    "Tower_App_V3.5.0.zip": {
+      "bytes": 440266,
+      "sha256": "0a9fbb694d10307a6a5acc4778c255a766ac32c4f8f036304fcdda18f62f8e92"
+    },
+    "SQL259_NOTIFICATION_HISTORY_V3.5.0.sql": {
+      "bytes": 7283,
+      "sha256": "82dd17e4a81db4316ecae398774b93ae98d27184687b446cb6fd2e77f290553d"
+    }
+  },
+  "localPassCount": 57
+}
