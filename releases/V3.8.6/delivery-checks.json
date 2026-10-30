@@ -1,0 +1,62 @@
+{
+  "version": "V3.8.6",
+  "baselineVersion": "V3.8.5",
+  "runtimeFileCount": 5,
+  "sourceFileCount": 1057,
+  "baselineSourcePathsPreserved": true,
+  "oldSqlTestsQaUnchanged": true,
+  "crc": "PASS",
+  "rootPublicIdentical": true,
+  "newSql": [
+    268
+  ],
+  "publicTablesAdded": false,
+  "reportsAndPdfUnchanged": true,
+  "reportPdfFunctionCountVerified": 86,
+  "sqlExecutedOnline": false,
+  "cloudflareDeployed": false,
+  "uiTestsExecuted": false,
+  "onlineTestsExecuted": false,
+  "pushActuallySent": false,
+  "actualAndroidTested": false,
+  "restoreHookTestedOnIndependentPostgres": false,
+  "productionDatabaseRestoreTested": false,
+  "actualResetEnabled": false,
+  "encryptionPreserved": true,
+  "runtimeDownloadMode": "NATIVE_BROWSER_LINK",
+  "tests": {
+    "sql-results.json": 10,
+    "model-results.json": 20,
+    "workerd-results.json": 3,
+    "worker-results.json": 10,
+    "preservation-results.json": 7,
+    "updater-package-results.json": 7
+  },
+  "files": {
+    "VALIDATION_V3.8.6_AR.md": {
+      "bytes": 3410,
+      "sha256": "5fcf88605e51c0008502b9f9cb8a2be270f9d38191af4585742d6ecd0d4f0ed3"
+    },
+    "Tower_App_V3.8.6-SOURCE.zip": {
+      "bytes": 18310031,
+      "sha256": "fb0cf179d8e36ca14ced5bbc542cdd6bfe7c08e75c29e9e86ec8b6faefe2d26b"
+    },
+    "RELEASE_NOTES_V3.8.6_AR.md": {
+      "bytes": 3138,
+      "sha256": "5682c8dc0c38465bdbd8b6e79735d5148daff2e8d43c080b4c4488cfbb8205ac"
+    },
+    "SQL268_TRIP_NOTIFICATION_CONTENT_V3.8.6.sql": {
+      "bytes": 6911,
+      "sha256": "ca2d811837367bf539f98800a3cc63bf4647fd52b439d8db7256ed6dabfd8c8b"
+    },
+    "USER_ONLINE_TEST_V3.8.6_AR.md": {
+      "bytes": 2888,
+      "sha256": "1eda20c2f539072880f785f10940caec3c57762ea97495957119f03f9c60b904"
+    },
+    "Tower_App_V3.8.6.zip": {
+      "bytes": 472016,
+      "sha256": "9497f6a753606bf9e6f4ea7bc0bfa2c06ab3d170f0e6210c4bc4a813683abbdc"
+    }
+  },
+  "localPassCount": 57
+}
