@@ -1,0 +1,61 @@
+{
+  "version": "V3.8.7",
+  "baselineVersion": "V3.8.6",
+  "runtimeFileCount": 5,
+  "sourceFileCount": 1076,
+  "baselineSourcePathsPreserved": true,
+  "oldSqlTestsQaUnchanged": true,
+  "crc": "PASS",
+  "rootPublicIdentical": true,
+  "newSql": [],
+  "publicTablesAdded": false,
+  "reportsAndPdfUnchanged": true,
+  "reportPdfFunctionCountVerified": 86,
+  "sqlExecutedOnline": false,
+  "cloudflareDeployed": false,
+  "uiTestsExecuted": false,
+  "onlineTestsExecuted": false,
+  "pushActuallySent": false,
+  "actualAndroidTested": false,
+  "restoreHookTestedOnIndependentPostgres": false,
+  "productionDatabaseRestoreTested": false,
+  "actualResetEnabled": false,
+  "encryptionPreserved": true,
+  "runtimeDownloadMode": "NATIVE_BROWSER_LINK",
+  "tests": {
+    "model-results.json": 26,
+    "workerd-results.json": 3,
+    "worker-results.json": 10,
+    "preservation-results.json": 8,
+    "audio-results.json": 1,
+    "updater-package-results.json": 7,
+    "device-independence-results.json": 3
+  },
+  "files": {
+    "USER_ONLINE_TEST_V3.8.7_AR.md": {
+      "bytes": 3367,
+      "sha256": "490a7a0c0eb143d92d0070d260d632c869210c22e35ef28cd8b966b044e87ea4"
+    },
+    "Tower_Notification_Ding_Dong.wav": {
+      "bytes": 158444,
+      "sha256": "97d2bd80c7d18db90851c7d68af416d790346c1f7ef35b12ec40e72e8d5ad177"
+    },
+    "Tower_App_V3.8.7.zip": {
+      "bytes": 472633,
+      "sha256": "43ee35b6e985b28ea8fce641bdbe1232d43d288f9305ec233a219351a5fa60b7"
+    },
+    "VALIDATION_V3.8.7_AR.md": {
+      "bytes": 3028,
+      "sha256": "d357e6c7a1d8563a9b73edca98498e4adf5dfc1491b4281fc31a44af2bf46092"
+    },
+    "RELEASE_NOTES_V3.8.7_AR.md": {
+      "bytes": 3201,
+      "sha256": "83f972faddcf420ca7c898e518516c70888454ce1626a18809936abf1553287d"
+    },
+    "Tower_App_V3.8.7-SOURCE.zip": {
+      "bytes": 18472957,
+      "sha256": "7516dc82856275e5b0b7733bc0a570bc1caed3fe30c1438933ffe1e2fe699444"
+    }
+  },
+  "localPassCount": 58
+}
