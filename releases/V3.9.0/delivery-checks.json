@@ -1,0 +1,77 @@
+{
+  "version": "V3.9.0",
+  "nativeVersion": "V1.0.0",
+  "baselineVersion": "V3.8.7",
+  "runtimeFileCount": 5,
+  "sourceFileCount": 1132,
+  "baselineSourcePathsPreserved": true,
+  "oldSqlTestsQaUnchanged": true,
+  "crc": "PASS",
+  "rootPublicIdentical": true,
+  "newSql": [
+    269
+  ],
+  "publicTablesAdded": false,
+  "reportsAndPdfUnchanged": true,
+  "reportPdfFunctionCountVerified": 86,
+  "tripEngineChanged": false,
+  "sqlExecutedOnline": false,
+  "cloudflareDeployed": false,
+  "uiTestsExecuted": false,
+  "onlineTestsExecuted": false,
+  "actualFcmSent": false,
+  "firebaseConfiguredOnline": false,
+  "actualAndroidTested": false,
+  "apkBuiltAndSigned": true,
+  "apkSignatureVerified": true,
+  "androidLintErrors": 0,
+  "androidLintWarnings": 0,
+  "signingKeyPublished": false,
+  "freeToolsOnly": true,
+  "actualResetEnabled": false,
+  "encryptionPreserved": true,
+  "tests": {
+    "apk-results.json": 9,
+    "native-policy-results.json": 5,
+    "android-worker-results.json": 7,
+    "model-results.json": 26,
+    "android-sql-results.json": 8,
+    "native-bridge-results.json": 5,
+    "workerd-results.json": 3,
+    "worker-results.json": 10,
+    "preservation-results.json": 9,
+    "native-workerd-results.json": 1,
+    "updater-package-results.json": 7
+  },
+  "files": {
+    "ANDROID_FREE_NOTIFICATIONS_SETUP_V1.0.0_AR.md": {
+      "bytes": 4304,
+      "sha256": "45dcd98e5a89b7589e3dcf699ae277a6fbca183faa3abf0dd22b8c507ef9dbde"
+    },
+    "Tower_App_V3.9.0.zip": {
+      "bytes": 474188,
+      "sha256": "b9e5495c58c2590e30c893ab97a99bbd1c23f66b8722cbe167960087a73682b6"
+    },
+    "USER_ONLINE_TEST_V3.9.0_AR.md": {
+      "bytes": 3418,
+      "sha256": "8fca71c45a9a5a3a9207e34ebc3faedaadf14bfcc2346002b7a2ea8d391c797e"
+    },
+    "RELEASE_NOTES_V3.9.0_AR.md": {
+      "bytes": 3999,
+      "sha256": "8c2b81fd6d7c219688fdf01eec2ba8a2eb788455d19e184dde7cc5887278ddad"
+    },
+    "VALIDATION_V3.9.0_AR.md": {
+      "bytes": 3846,
+      "sha256": "8cc3ca76e0c7529297c07c519ad690c24d04812d5df4047e7b9121ad9785bdc4"
+    },
+    "SQL269_ANDROID_NOTIFICATIONS_V3.9.0.sql": {
+      "bytes": 13846,
+      "sha256": "0e9233d49768390addc06a9273aba3c0a6fa61bb869612ef112a64dd6c17799a"
+    },
+    "Tower_App_V3.9.0-SOURCE.zip": {
+      "bytes": 18750212,
+      "sha256": "99d733d75a21226a1a145e4e7c41a8711f581530b48a43c06a3aedb5c90f43d2"
+    }
+  },
+  "localPassCount": 90
+}

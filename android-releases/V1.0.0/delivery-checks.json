@@ -14,8 +14,8 @@
   "privateSigningKeyPublished": false,
   "files": {
     "Tower_Android_V1.0.0-SOURCE.zip": {
-      "bytes": 193832,
-      "sha256": "8f17dddb6c500e1ba49159098f943ec5155c821355d1d08d3b11bf59bd834308"
+      "bytes": 194010,
+      "sha256": "4a59b53b5a632e255b5d000f45891e173ccb2493b5f24cd1fa16c80e94c0362c"
     },
     "README_AR.md": {
       "bytes": 4554,
@@ -28,6 +28,14 @@
     "USER_TEST_AR.md": {
       "bytes": 3721,
       "sha256": "4a4860fb4e9855ef8ecdf45635a7c7e0ea884e01f8fd305175470d300f9e5543"
+    },
+    "FREE_NOTIFICATIONS_SETUP_AR.md": {
+      "bytes": 4304,
+      "sha256": "45dcd98e5a89b7589e3dcf699ae277a6fbca183faa3abf0dd22b8c507ef9dbde"
+    },
+    "Tower_Android_Free_Setup_V1.0.0.zip": {
+      "bytes": 2921934,
+      "sha256": "dd7c567498f9b13e3ee6654e18825c62e8c6759d1a4e878e4992704c9489b943"
     }
   }
 }
