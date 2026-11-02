@@ -43,6 +43,11 @@ BEGIN
   ELSE unknowns:=unknowns||jsonb_build_array(jsonb_build_object('table',t,'count',n));END IF;
  END LOOP;
 
+ -- Lock referencing tables too: no external ON DELETE cascade can acquire new rows after preview validation.
+ FOR q IN SELECT DISTINCT c.conrelid FROM pg_constraint c WHERE c.contype='f'
+ AND c.confrelid IN(SELECT to_regclass(format('public.%I',x)) FROM unnest(all_tables)x) ORDER BY c.conrelid LOOP
+  EXECUTE format('LOCK TABLE %s IN SHARE ROW EXCLUSIVE MODE',q.conrelid::regclass);
+ END LOOP;
  -- A row-level dependency plan, bound to the full retained state and exact options.
  DROP TABLE IF EXISTS pg_temp.tower_reset_rows393;
  DROP TABLE IF EXISTS pg_temp.tower_reset_null393;

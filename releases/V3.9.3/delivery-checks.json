@@ -23,8 +23,8 @@
   "localPassCount": 62,
   "files": {
     "Tower_App_V3.9.3-SOURCE.zip": {
-      "bytes": 19571971,
-      "sha256": "7901bd4424987ffb7fa653c8f1c33115a66064e6ebf11b929f3251aa7696eb94"
+      "bytes": 19572080,
+      "sha256": "dab63bd9036f1f2e60be6913fac0425b67b188dae6cc7e17e248a30ce70bd30f"
     },
     "RELEASE_NOTES_V3.9.3_AR.md": {
       "bytes": 4373,
@@ -39,8 +39,8 @@
       "sha256": "2bc23082dc7936faff4d647909a29ba6f0a66d8990995d650f0670bef8d40686"
     },
     "SQL273_OPTIONAL_RESET_AND_WELCOME.sql": {
-      "bytes": 22715,
-      "sha256": "1dc94fe1c9557a56dfcb9001568ba9c6b207abda00e0b2641223a9503c07c9e6"
+      "bytes": 23111,
+      "sha256": "5f682b4b6bb7754ceacb6308a5855fb088b8f65a0a95b72d6023ac80d3028479"
     },
     "VALIDATION_V3.9.3_AR.md": {
       "bytes": 2036,
@@ -48,7 +48,7 @@
     },
     "Tower_App_V3.9.3.zip": {
       "bytes": 802910,
-      "sha256": "7757312fe73a5f4b1302bd82bb76b1580cec3f4fc4f5b3ef9a2989035652749f"
+      "sha256": "8ed44d4db965e1e3bbcfea78b23ebca2a665353b8dc8cadbfcf346c7ea59d7bd"
     }
   }
 }
