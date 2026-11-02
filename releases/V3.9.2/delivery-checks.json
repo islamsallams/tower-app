@@ -24,7 +24,7 @@
     },
     "Tower_App_V3.9.2.zip": {
       "bytes": 635335,
-      "sha256": "cbd04d80480e02feff7de3c897b346af19a6ee3011199d125799046c55c67a9e"
+      "sha256": "2415bc94cf9f84b60abab1c26715f63c160bc5ac353421da78fef39c1815ea24"
     },
     "INSTALL_V3.9.2_AR.md": {
       "bytes": 1377,
@@ -35,8 +35,8 @@
       "sha256": "fd8c020d20379a8f2044ae078fe8e1566443439f868e2a32f7856db278f42125"
     },
     "Tower_App_V3.9.2-SOURCE.zip": {
-      "bytes": 19203258,
-      "sha256": "a14e74987112aafc8be37df45ff49ad74ad0b7a4cdd22473ff0fc823cff17cba"
+      "bytes": 19203401,
+      "sha256": "8723f5d58a6175286ee64132f1966dc3ec534c834e6244e4c02f66a60ebf28da"
     }
   }
 }
