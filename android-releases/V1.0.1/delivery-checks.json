@@ -1,0 +1,30 @@
+{
+  "version": "V1.0.1",
+  "code": 2,
+  "package": "com.islamsallams.towerapp",
+  "built": true,
+  "signed": true,
+  "sameSigningCertificateAs100": true,
+  "lintErrors": 0,
+  "lintWarnings": 0,
+  "deviceOrEmulatorTested": false,
+  "freeOnly": true,
+  "files": {
+    "Tower_Android_V1.0.1.apk": {
+      "bytes": 2681324,
+      "sha256": "6df7c74243d940df86f954da82ff0cefcd6cf25da11de351228f796196ec1888"
+    },
+    "README_AR.md": {
+      "bytes": 4981,
+      "sha256": "2386ae539503cd98c54105f09aea08370ac154d66c5512d85781e1dd1dc0c503"
+    },
+    "Tower_Android_V1.0.1-SOURCE.zip": {
+      "bytes": 194889,
+      "sha256": "68eda774288e95ff00d9f5c1ba3ea0616564d8443cbfb97d34032c863a76f991"
+    },
+    "USER_TEST_AR.md": {
+      "bytes": 3720,
+      "sha256": "83617e21cc9404d30e04ae0ecfae508402cc8f4e5d352dbd1da084262a4090af"
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "version": "V3.9.1",
+  "nativeVersion": "V1.0.1",
+  "runtimeFiles": 5,
+  "sourceFiles": 1164,
+  "baselineSourcePathsPreserved": true,
+  "oldSqlAndQaUnchanged": true,
+  "newProductionSql": [
+    270,
+    272
+  ],
+  "readOnlyDiagnostic": 271,
+  "combinedInstallerAtomic": true,
+  "crc": "PASS",
+  "rootPublicIdentical": true,
+  "reportsPdfAppBlocksUnchanged": 86,
+  "tripGuardSettlementAppBlocksUnchanged": true,
+  "typesStatesCategoriesDeferred": true,
+  "actualResetEnabled": true,
+  "actualResetExecutedOnline": false,
+  "sqlExecutedOnline": false,
+  "cloudflareDeployed": false,
+  "nativeBuiltSignedAndLinted": true,
+  "sameAndroidSigningCertificate": true,
+  "nativeDeviceOrEmulatorTested": false,
+  "browserOrScreenshotTestsExecuted": false,
+  "actualNotificationsSent": false,
+  "freeToolsOnly": true,
+  "localChecks": {
+    "apk-results.json": 10,
+    "native-policy-results.json": 5,
+    "services-results.json": 13,
+    "reset-results.json": 6,
+    "native-bridge-results.json": 6,
+    "package-results.json": 9,
+    "worker-results.json": 4,
+    "preservation-results.json": 7,
+    "ui-model-results.json": 7
+  },
+  "localPassCount": 67,
+  "files": {
+    "USER_ONLINE_TEST_V3.9.1_AR.md": {
+      "bytes": 3720,
+      "sha256": "83617e21cc9404d30e04ae0ecfae508402cc8f4e5d352dbd1da084262a4090af"
+    },
+    "Tower_App_V3.9.1.zip": {
+      "bytes": 635084,
+      "sha256": "c834bc9fbe974e8cde131f665bed9773db07d4fb093d4178ca96d8abc2c76095"
+    },
+    "VALIDATION_V3.9.1_AR.md": {
+      "bytes": 1949,
+      "sha256": "2800acd8bf03b1b5d4ce0b2ed8688abbdf49be2b43b1185cf16d4580b6acbd55"
+    },
+    "SQL270_272_V3.9.1.sql": {
+      "bytes": 24235,
+      "sha256": "30f24d8c150ee54c7b9bd60dedcb344977096cdd02e4f67abc842b04ecd39e95"
+    },
+    "INSTALL_V3.9.1_AR.md": {
+      "bytes": 1601,
+      "sha256": "de621c288a3b84ba1d2df74a72679855676223f300cc553909d1d19ab3c75bb4"
+    },
+    "Tower_App_V3.9.1-SOURCE.zip": {
+      "bytes": 19152721,
+      "sha256": "4e35953176fafb2d51e6639ca121d02fdbeab9b036bb50272d047ac2c265e157"
+    },
+    "RELEASE_NOTES_V3.9.1_AR.md": {
+      "bytes": 3541,
+      "sha256": "b86620f1b9cf32157a240edd5d6b35a9dd6bfeda1819056ae73b92915b70d9cd"
+    }
+  }
+}
