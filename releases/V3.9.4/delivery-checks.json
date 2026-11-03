@@ -1,0 +1,77 @@
+{
+  "version": "V3.9.4",
+  "nativeCode": 5,
+  "sameAndroidSigningCertificate": true,
+  "lintErrors": 0,
+  "lintWarnings": 0,
+  "sqlAdded": "SQL274",
+  "cloudflareDeployed": false,
+  "liveSqlExecuted": false,
+  "phoneOrBrowserTested": false,
+  "realNotificationSent": false,
+  "buildingResidentialFloors": 13,
+  "groundFloorSeparate": true,
+  "apartmentSlots": 38,
+  "shopSlots": 4,
+  "localChecks": {
+    "apk-results.json": 10,
+    "sql-results.json": 13,
+    "native-bridge-results.json": 8,
+    "package-results.json": 7,
+    "worker-results.json": 5,
+    "preservation-results.json": 9,
+    "update-policy-results.json": 3,
+    "ui-model-results.json": 9
+  },
+  "localPassCount": 64,
+  "files": {
+    "facade-13-floors-off394.webp": {
+      "bytes": 92582,
+      "sha256": "0518c1e72ef2e38d35241da450d7b81a639145d4fe566e64dc17d318d33bb43b"
+    },
+    "USER_ONLINE_TEST_V3.9.4_AR.md": {
+      "bytes": 6371,
+      "sha256": "1bbab41411313510a9e13bb2ebc9992e960fc7f30a9254dbafbeee956e4ec6a2"
+    },
+    "Tower_App_V3.9.4-SOURCE.zip": {
+      "bytes": 20238965,
+      "sha256": "33e635de7eb93da5fcda753daa132a80f5c101840feb392e916bdd62e4f3d1ac"
+    },
+    "INSTALL_V3.9.4_AR.md": {
+      "bytes": 3357,
+      "sha256": "1b6080adf7aac5d99fcab5e7b3ee211209e416db00eb88067c0db4aa5b385b09"
+    },
+    "layout394.json": {
+      "bytes": 11536,
+      "sha256": "a613ba91572d6622eb39983d4087cd91527795f27cc9fdace6612c421fb3c7e7"
+    },
+    "VALIDATION_V3.9.4_AR.md": {
+      "bytes": 2707,
+      "sha256": "f19646afa524e3c2d0b7071e63c6fd746fb8b65b0beb399c7a19e8e7ad6e86bd"
+    },
+    "blueprint394.svg": {
+      "bytes": 135465,
+      "sha256": "1b19a5f614537045384e8f89f81755eb07a598827dd64601aa2afe7763b0c9a5"
+    },
+    "Tower_App_V3.9.4.zip": {
+      "bytes": 1070337,
+      "sha256": "550fd9ae29d965aa2be0c28eaa7c82d92ff336278bebe2dc9cffa19c0a30a387"
+    },
+    "SQL274_NOTICES_REPORTS_AND_TASK_FUNDING.sql": {
+      "bytes": 21118,
+      "sha256": "0ec35ec46941d717072b28893a8e650039e59a4362b6791b4661533d3d383c61"
+    },
+    "BUILDING_V3.9.4_AR.md": {
+      "bytes": 2004,
+      "sha256": "c9fd72d2d13e9453a540f5708862df83da0703594a24e6d1ecb316aeeab542f9"
+    },
+    "RELEASE_NOTES_V3.9.4_AR.md": {
+      "bytes": 5788,
+      "sha256": "673d7e3e52a4da01449f3ba442c1cde8d00a8b28ae8e3a43e67e62f46dd97c46"
+    },
+    "facade-13-floors-on394.webp": {
+      "bytes": 166402,
+      "sha256": "dfc815d2c52ea8ca14279b41913261711c5c4975475668d8df7f5e4be875dbc8"
+    }
+  }
+}

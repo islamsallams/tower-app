@@ -1,0 +1,45 @@
+{
+  "version": "V3.9.4",
+  "nativeCode": 5,
+  "sameAndroidSigningCertificate": true,
+  "lintErrors": 0,
+  "lintWarnings": 0,
+  "sqlAdded": "SQL274",
+  "cloudflareDeployed": false,
+  "liveSqlExecuted": false,
+  "phoneOrBrowserTested": false,
+  "realNotificationSent": false,
+  "buildingResidentialFloors": 13,
+  "groundFloorSeparate": true,
+  "apartmentSlots": 38,
+  "shopSlots": 4,
+  "localChecks": {
+    "apk-results.json": 10,
+    "sql-results.json": 13,
+    "native-bridge-results.json": 8,
+    "package-results.json": 7,
+    "worker-results.json": 5,
+    "preservation-results.json": 9,
+    "update-policy-results.json": 3,
+    "ui-model-results.json": 9
+  },
+  "localPassCount": 64,
+  "files": {
+    "README_AR.md": {
+      "bytes": 6454,
+      "sha256": "b960c6b1e4db700a0a6e976ed06b26ae4631a91a16059e5a3d3c9ba710f3241f"
+    },
+    "Tower_Android_V3.9.4-SOURCE.zip": {
+      "bytes": 197334,
+      "sha256": "373b42a9d6f6864494ba00abc02a67dc0a2c8d88eee2c4f8cd2febe626f06d0d"
+    },
+    "Tower_Android_V3.9.4.apk": {
+      "bytes": 2683064,
+      "sha256": "5df57aa09758d70618cbf105b0e2e18070d66484886f8f0e149cdc187bfa29d2"
+    },
+    "USER_TEST_AR.md": {
+      "bytes": 6371,
+      "sha256": "1bbab41411313510a9e13bb2ebc9992e960fc7f30a9254dbafbeee956e4ec6a2"
+    }
+  }
+}
