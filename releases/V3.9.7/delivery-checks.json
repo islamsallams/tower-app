@@ -1,0 +1,63 @@
+{
+  "version": "V3.9.7",
+  "nativeCode": 8,
+  "sameAndroidSigningCertificate": true,
+  "lintErrors": 0,
+  "lintWarnings": 0,
+  "sqlAdded": [
+    "SQL277",
+    "SQL278"
+  ],
+  "cloudflareDeployed": false,
+  "liveSqlExecuted": false,
+  "phoneOrBrowserTested": false,
+  "realNotificationSent": false,
+  "visualQAStatus": "USER_REVIEW_PENDING",
+  "safeUpdateExtensionLocallyAvailable": false,
+  "financialCoreUnchanged": true,
+  "localChecks": {
+    "apk-results.json": 10,
+    "sql-results.json": 20,
+    "native-bridge-results.json": 8,
+    "package-results.json": 7,
+    "prayers-sql-results.json": 6,
+    "release-gate-results.json": 12,
+    "worker-results.json": 11,
+    "preservation-results.json": 10,
+    "notice-sql-results.json": 5,
+    "update-policy-results.json": 3,
+    "startup-results.json": 8,
+    "ui-model-results.json": 13
+  },
+  "localPassCount": 113,
+  "files": {
+    "INSTALL_V3.9.7_AR.md": {
+      "bytes": 1970,
+      "sha256": "f26ad3dd8cd42162c1177a5ea01c581b5e1371f3e6d97f16c58552bb59fe74d5"
+    },
+    "VALIDATION_V3.9.7_AR.md": {
+      "bytes": 4760,
+      "sha256": "30295e0c6f1e1fa7df04edfca3bf8ca2cd1622879f4664b63a4e003f8a5313a8"
+    },
+    "Tower_App_V3.9.7-SOURCE.zip": {
+      "bytes": 21724628,
+      "sha256": "2cc15d20ae0ded37cb85a161aa3699ead9382c7618dd0f1429620bc78ebbab5b"
+    },
+    "USER_ONLINE_TEST_V3.9.7_AR.md": {
+      "bytes": 3461,
+      "sha256": "d643196d4ec264438624a04fab028de408a1417a5b17d231fa968f72c26f69af"
+    },
+    "Tower_App_V3.9.7.zip": {
+      "bytes": 1083936,
+      "sha256": "80ea7610a6e013720deafc0ab8a4a0ce4f008256c6522704c4ebc3b3a1f17547"
+    },
+    "SQL277_278_MEMBER_NOTICE_AND_WELCOME.sql": {
+      "bytes": 8109,
+      "sha256": "6c3171112f118f957a82dc6906a873dd02052dfb31f0cd10699d0db13a2538a0"
+    },
+    "RELEASE_NOTES_V3.9.7_AR.md": {
+      "bytes": 4594,
+      "sha256": "abc52e8d105edf89dc17eafd3df5859f9e7a9dccbb6ab13a5074eccef1be93f8"
+    }
+  }
+}
