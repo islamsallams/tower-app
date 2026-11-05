@@ -1,0 +1,64 @@
+{
+  "version": "V3.9.8",
+  "nativeCode": 9,
+  "sameAndroidSigningCertificate": true,
+  "lintErrors": 0,
+  "lintWarnings": 0,
+  "sqlAdded": [
+    "SQL279",
+    "SQL280"
+  ],
+  "cloudflareDeployed": false,
+  "liveSqlExecuted": false,
+  "phoneOrBrowserTested": false,
+  "realNotificationSent": false,
+  "visualQAStatus": "USER_REVIEW_PENDING",
+  "safeUpdateExtensionLocallyAvailable": false,
+  "existingMoneyMathAndUndoPreserved": true,
+  "settlementSelectionChanged": true,
+  "localChecks": {
+    "apk-results.json": 10,
+    "sql-results.json": 20,
+    "receipt-sql-results.json": 4,
+    "native-bridge-results.json": 8,
+    "package-results.json": 7,
+    "release-gate-results.json": 12,
+    "worker-results.json": 14,
+    "preservation-results.json": 8,
+    "settlement-sql-results.json": 17,
+    "update-policy-results.json": 3,
+    "startup-results.json": 8,
+    "ui-model-results.json": 21
+  },
+  "localPassCount": 132,
+  "files": {
+    "Tower_App_V3.9.8-SOURCE.zip": {
+      "bytes": 21800177,
+      "sha256": "30a0deab745f5e4fa2d0206f60aca3cfbe3bc6b9af600e84dfa4d613c9500956"
+    },
+    "INSTALL_V3.9.8_AR.md": {
+      "bytes": 1444,
+      "sha256": "09726c263a9310de0f50b699732600747f806b3109aa63d478b2ae6001b0c116"
+    },
+    "SQL279_280_TASK_AND_SETTLEMENT_FIXES.sql": {
+      "bytes": 23578,
+      "sha256": "d35b95342a56c0f132b476604ba9da2b6379e590877418d79d008570f5b22bef"
+    },
+    "RELEASE_NOTES_V3.9.8_AR.md": {
+      "bytes": 2164,
+      "sha256": "47cb04e11bffc1cafc17b697b3838b041ec48ddbfb7ecf024a9c24dcaa79a580"
+    },
+    "USER_ONLINE_TEST_V3.9.8_AR.md": {
+      "bytes": 3805,
+      "sha256": "acf3ae91573566c1056c6ec03dd7aa8890290cb88b156f665c79b8760170475b"
+    },
+    "VALIDATION_V3.9.8_AR.md": {
+      "bytes": 2233,
+      "sha256": "0ebb0d1aa53d1ccd38e86454994a1f0ed5747632f21a8a0269a4c09da39db061"
+    },
+    "Tower_App_V3.9.8.zip": {
+      "bytes": 1088570,
+      "sha256": "85dee8f33c0a76b616ee947619cba7e646ba038f59db6286e093c177d6f771b0"
+    }
+  }
+}
