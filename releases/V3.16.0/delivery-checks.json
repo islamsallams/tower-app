@@ -1,0 +1,17 @@
+{
+  "version": "3.16.0",
+  "ui_checks": 13,
+  "startup_checks": 8,
+  "sql289_fixture_checks": 5,
+  "visual_acceptance": "USER_PENDING",
+  "files": {
+    "Tower_App_V3.16.0.zip": {
+      "bytes": 1103568,
+      "sha256": "8b8d2e7d3e3ee35d8b0636a7f4e25ae99bbd1f3a9b211dace3f54c2765ffc2e1"
+    },
+    "Tower_App_V3.16.0-SOURCE.zip": {
+      "bytes": 4973524,
+      "sha256": "d5ee2ec09b794433573267852daa0fb1f6b1e47d746fa5b7d308533b4cd14103"
+    }
+  }
+}
