@@ -1,0 +1,43 @@
+{
+  "version": "3.17.0",
+  "sqlRequired": [
+    "SQL290"
+  ],
+  "checks": {
+    "resetSql": 12,
+    "resetWorker": 10,
+    "resetUi": 12,
+    "tripUi": 13,
+    "startup": 8,
+    "sql289Compatibility": 5,
+    "settlementSql": 17,
+    "financeSql": 20
+  },
+  "passedChecks": 97,
+  "visualQA": "USER_PENDING",
+  "liveSqlExecuted": false,
+  "realTelegramSent": false,
+  "cloudflareDeployed": false,
+  "files": {
+    "SQL_290_PRE_RESET_FINANCIAL_REPORT_V3.17.0.sql": {
+      "bytes": 10390,
+      "sha256": "ec21b4e56ec1d80db3b7b8a02091936554f83622cbedc4ed6aa57eda0cba2133"
+    },
+    "Tower_App_V3.17.0.zip": {
+      "bytes": 1108320,
+      "sha256": "d61d8f2dd79bbc310733a329bc74f8568315172b72ebf3d93475ba6d32682e86"
+    },
+    "RELEASE_NOTES_V3.17.0_AR.md": {
+      "bytes": 7491,
+      "sha256": "97d8bd23d01d32d2fc4f5b600144345c4f32372eafcc958463409874b7d6e3b4"
+    },
+    "Tower_App_V3.17.0-SOURCE.zip": {
+      "bytes": 5007094,
+      "sha256": "378888dc1b1b87a3d0a053b5fff891c2a79f9a8a9bbb160fa3a67933aaca561a"
+    },
+    "USER_TEST_V3.17.0_AR.md": {
+      "bytes": 3718,
+      "sha256": "76a41f3fa95d873a614ed582dd1daa0a175d6b536a65223970aa030b2510adfe"
+    }
+  }
+}
