@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "baselineFilesPreservedExcept": [
+    "AGENTS.md",
+    "app.js",
+    "index.html",
+    "public/app.js",
+    "public/index.html",
+    "public/styles.css",
+    "styles.css",
+    "worker.js"
+  ],
+  "runtimeFiles": 5,
+  "fieldTestRows": 31,
+  "zipCRC": "PASS",
+  "publicMirrors": "PASS",
+  "runtimeSourceMatch": "PASS",
+  "sqlHistoricalBytes": "unchanged",
+  "sha256": {
+    "RELEASE_NOTES_V3.18.0_AR.md": "d68122a301d17d01206a2892d7d329ea143f0a3383c22f5d5950e3d50bcb1555",
+    "Tower_App_V3.18.0.zip": "15d37a0c6f9a1de8b009c7f2068171fd54239d3294e6bc48db843f20a1fcec00",
+    "SQL_291_RESET_TRIP_WORKFLOW_V3.18.0.sql": "01a2728cb2898028efa5eb5ebe5aa933a088a87d07d5f97a10ffc81e08537569",
+    "REQUIREMENTS_STATUS_V3.18.0_AR.md": "c15d212e8aae5dc8c26d815f37ba6c8d5527a6dbb12c1c09c7c5361fdb58d394",
+    "VALIDATION_V3.18.0_AR.md": "7fd69cdc43f374675e912b293cf32278430ff75f8a4b2e1081cfb566b73b2aef",
+    "Tower_App_V3.18.0-SOURCE.zip": "fea8d932ac8310fbdad01fa9a78ceb35c470e78f02a6c9a364f6968bcfdf54e2",
+    "Tower_App_V3.18.0-TESTS.xlsx": "57fee2ab873b91f73dea0dd5d24d93b86a90c866e96d8dffa09840faca7a7029"
+  }
+}
